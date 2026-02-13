@@ -1,0 +1,442 @@
+{
+  "airports": [
+    {
+      "code": "AKJ",
+      "name": "旭川",
+      "fullName": "旭川空港",
+      "region": "北海道"
+    },
+    {
+      "code": "CTS",
+      "name": "新千歳",
+      "fullName": "新千歳空港",
+      "region": "北海道"
+    },
+    {
+      "code": "HKD",
+      "name": "函館",
+      "fullName": "函館空港",
+      "region": "北海道"
+    },
+    {
+      "code": "KUH",
+      "name": "釧路",
+      "fullName": "釧路空港",
+      "region": "北海道"
+    },
+    {
+      "code": "MBE",
+      "name": "紋別",
+      "fullName": "紋別空港",
+      "region": "北海道"
+    },
+    {
+      "code": "MMB",
+      "name": "女満別",
+      "fullName": "女満別空港",
+      "region": "北海道"
+    },
+    {
+      "code": "OBO",
+      "name": "帯広",
+      "fullName": "とかち帯広空港",
+      "region": "北海道"
+    },
+    {
+      "code": "OIR",
+      "name": "奥尻",
+      "fullName": "奥尻空港",
+      "region": "北海道"
+    },
+    {
+      "code": "OKD",
+      "name": "丘珠",
+      "fullName": "札幌丘珠空港",
+      "region": "北海道"
+    },
+    {
+      "code": "RIS",
+      "name": "利尻",
+      "fullName": "利尻空港",
+      "region": "北海道"
+    },
+    {
+      "code": "SHB",
+      "name": "中標津",
+      "fullName": "中標津空港",
+      "region": "北海道"
+    },
+    {
+      "code": "WKJ",
+      "name": "稚内",
+      "fullName": "稚内空港",
+      "region": "北海道"
+    },
+    {
+      "code": "AOJ",
+      "name": "青森",
+      "fullName": "青森空港",
+      "region": "東北"
+    },
+    {
+      "code": "AXT",
+      "name": "秋田",
+      "fullName": "秋田空港",
+      "region": "東北"
+    },
+    {
+      "code": "FKS",
+      "name": "福島",
+      "fullName": "福島空港",
+      "region": "東北"
+    },
+    {
+      "code": "GAJ",
+      "name": "山形",
+      "fullName": "おいしい山形空港",
+      "region": "東北"
+    },
+    {
+      "code": "HNA",
+      "name": "花巻",
+      "fullName": "いわて花巻空港",
+      "region": "東北"
+    },
+    {
+      "code": "MSJ",
+      "name": "三沢",
+      "fullName": "三沢空港",
+      "region": "東北"
+    },
+    {
+      "code": "ONJ",
+      "name": "大館能代",
+      "fullName": "大館能代空港",
+      "region": "東北"
+    },
+    {
+      "code": "SDJ",
+      "name": "仙台",
+      "fullName": "仙台空港",
+      "region": "東北"
+    },
+    {
+      "code": "SYO",
+      "name": "庄内",
+      "fullName": "庄内空港",
+      "region": "東北"
+    },
+    {
+      "code": "HAC",
+      "name": "八丈島",
+      "fullName": "八丈島空港",
+      "region": "関東"
+    },
+    {
+      "code": "HND",
+      "name": "羽田",
+      "fullName": "東京国際空港（羽田）",
+      "region": "関東"
+    },
+    {
+      "code": "NRT",
+      "name": "成田",
+      "fullName": "成田国際空港",
+      "region": "関東"
+    },
+    {
+      "code": "FSZ",
+      "name": "静岡",
+      "fullName": "静岡空港",
+      "region": "中部"
+    },
+    {
+      "code": "KIJ",
+      "name": "新潟",
+      "fullName": "新潟空港",
+      "region": "中部"
+    },
+    {
+      "code": "KMQ",
+      "name": "小松",
+      "fullName": "小松空港",
+      "region": "中部"
+    },
+    {
+      "code": "MMJ",
+      "name": "松本",
+      "fullName": "信州まつもと空港",
+      "region": "中部"
+    },
+    {
+      "code": "NGO",
+      "name": "中部",
+      "fullName": "中部国際空港（セントレア）",
+      "region": "中部"
+    },
+    {
+      "code": "NKM",
+      "name": "名古屋",
+      "fullName": "名古屋飛行場（小牧）",
+      "region": "中部"
+    },
+    {
+      "code": "NTQ",
+      "name": "能登",
+      "fullName": "のと里山空港",
+      "region": "中部"
+    },
+    {
+      "code": "TOY",
+      "name": "富山",
+      "fullName": "富山空港",
+      "region": "中部"
+    },
+    {
+      "code": "ITM",
+      "name": "伊丹",
+      "fullName": "大阪国際空港（伊丹）",
+      "region": "近畿"
+    },
+    {
+      "code": "KIX",
+      "name": "関西",
+      "fullName": "関西国際空港",
+      "region": "近畿"
+    },
+    {
+      "code": "SHM",
+      "name": "南紀白浜",
+      "fullName": "南紀白浜空港",
+      "region": "近畿"
+    },
+    {
+      "code": "TJH",
+      "name": "但馬",
+      "fullName": "コウノトリ但馬空港",
+      "region": "近畿"
+    },
+    {
+      "code": "UKB",
+      "name": "神戸",
+      "fullName": "神戸空港",
+      "region": "近畿"
+    },
+    {
+      "code": "HIJ",
+      "name": "広島",
+      "fullName": "広島空港",
+      "region": "中国"
+    },
+    {
+      "code": "IWJ",
+      "name": "萩石見",
+      "fullName": "萩・石見空港",
+      "region": "中国"
+    },
+    {
+      "code": "IWK",
+      "name": "岩国",
+      "fullName": "岩国錦帯橋空港",
+      "region": "中国"
+    },
+    {
+      "code": "IZO",
+      "name": "出雲",
+      "fullName": "出雲縁結び空港",
+      "region": "中国"
+    },
+    {
+      "code": "OKI",
+      "name": "隠岐",
+      "fullName": "隠岐空港",
+      "region": "中国"
+    },
+    {
+      "code": "OKJ",
+      "name": "岡山",
+      "fullName": "岡山桃太郎空港",
+      "region": "中国"
+    },
+    {
+      "code": "TTJ",
+      "name": "鳥取",
+      "fullName": "鳥取砂丘コナン空港",
+      "region": "中国"
+    },
+    {
+      "code": "UBJ",
+      "name": "山口宇部",
+      "fullName": "山口宇部空港",
+      "region": "中国"
+    },
+    {
+      "code": "YGJ",
+      "name": "米子",
+      "fullName": "米子鬼太郎空港",
+      "region": "中国"
+    },
+    {
+      "code": "KCZ",
+      "name": "高知",
+      "fullName": "高知龍馬空港",
+      "region": "四国"
+    },
+    {
+      "code": "MYJ",
+      "name": "松山",
+      "fullName": "松山空港",
+      "region": "四国"
+    },
+    {
+      "code": "TAK",
+      "name": "高松",
+      "fullName": "高松空港",
+      "region": "四国"
+    },
+    {
+      "code": "TKS",
+      "name": "徳島",
+      "fullName": "徳島阿波おどり空港",
+      "region": "四国"
+    },
+    {
+      "code": "ASJ",
+      "name": "奄美大島",
+      "fullName": "奄美空港",
+      "region": "九州"
+    },
+    {
+      "code": "AXJ",
+      "name": "天草",
+      "fullName": "天草空港",
+      "region": "九州"
+    },
+    {
+      "code": "FUJ",
+      "name": "五島福江",
+      "fullName": "五島福江空港",
+      "region": "九州"
+    },
+    {
+      "code": "FUK",
+      "name": "福岡",
+      "fullName": "福岡空港",
+      "region": "九州"
+    },
+    {
+      "code": "HSG",
+      "name": "佐賀",
+      "fullName": "佐賀空港",
+      "region": "九州"
+    },
+    {
+      "code": "IKI",
+      "name": "壱岐",
+      "fullName": "壱岐空港",
+      "region": "九州"
+    },
+    {
+      "code": "KKJ",
+      "name": "北九州",
+      "fullName": "北九州空港",
+      "region": "九州"
+    },
+    {
+      "code": "KKX",
+      "name": "喜界",
+      "fullName": "喜界空港",
+      "region": "九州"
+    },
+    {
+      "code": "KMI",
+      "name": "宮崎",
+      "fullName": "宮崎ブーゲンビリア空港",
+      "region": "九州"
+    },
+    {
+      "code": "KMJ",
+      "name": "熊本",
+      "fullName": "熊本空港",
+      "region": "九州"
+    },
+    {
+      "code": "KOJ",
+      "name": "鹿児島",
+      "fullName": "鹿児島空港",
+      "region": "九州"
+    },
+    {
+      "code": "KUM",
+      "name": "屋久島",
+      "fullName": "屋久島空港",
+      "region": "九州"
+    },
+    {
+      "code": "NGS",
+      "name": "長崎",
+      "fullName": "長崎空港",
+      "region": "九州"
+    },
+    {
+      "code": "OIT",
+      "name": "大分",
+      "fullName": "大分空港",
+      "region": "九州"
+    },
+    {
+      "code": "OKE",
+      "name": "沖永良部",
+      "fullName": "沖永良部空港",
+      "region": "九州"
+    },
+    {
+      "code": "RNJ",
+      "name": "与論",
+      "fullName": "与論空港",
+      "region": "九州"
+    },
+    {
+      "code": "TKN",
+      "name": "徳之島",
+      "fullName": "徳之島空港",
+      "region": "九州"
+    },
+    {
+      "code": "TNE",
+      "name": "種子島",
+      "fullName": "種子島空港",
+      "region": "九州"
+    },
+    {
+      "code": "TSJ",
+      "name": "対馬",
+      "fullName": "対馬空港",
+      "region": "九州"
+    },
+    {
+      "code": "ISG",
+      "name": "石垣",
+      "fullName": "南ぬ島石垣空港",
+      "region": "沖縄"
+    },
+    {
+      "code": "MMY",
+      "name": "宮古",
+      "fullName": "宮古空港",
+      "region": "沖縄"
+    },
+    {
+      "code": "OKA",
+      "name": "那覇",
+      "fullName": "那覇空港",
+      "region": "沖縄"
+    },
+    {
+      "code": "UEO",
+      "name": "久米島",
+      "fullName": "久米島空港",
+      "region": "沖縄"
+    }
+  ]
+}
