@@ -1248,7 +1248,7 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "11:15"
+        "time": "11:20"
       },
       "arrival": {
         "airport": "女満別",
@@ -1473,52 +1473,6 @@
       ]
     },
     {
-      "flightNumber": "AMX101",
-      "airline": "AMX",
-      "departure": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "07:40"
-      },
-      "arrival": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "08:20"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "AMX102",
-      "airline": "AMX",
-      "departure": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "08:50"
-      },
-      "arrival": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "09:25"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
       "flightNumber": "AMX105",
       "airline": "AMX",
       "departure": {
@@ -1565,17 +1519,17 @@
       ]
     },
     {
-      "flightNumber": "AMX107",
+      "flightNumber": "AMX201",
       "airline": "AMX",
       "departure": {
         "airport": "天草",
         "airportCode": "AXJ",
-        "time": "18:00"
+        "time": "09:55"
       },
       "arrival": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "18:40"
+        "airport": "熊本",
+        "airportCode": "KMJ",
+        "time": "10:15"
       },
       "operatingDays": [
         1,
@@ -1588,17 +1542,63 @@
       ]
     },
     {
-      "flightNumber": "AMX108",
+      "flightNumber": "AMX202",
       "airline": "AMX",
       "departure": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "19:10"
+        "airport": "熊本",
+        "airportCode": "KMJ",
+        "time": "14:50"
       },
       "arrival": {
         "airport": "天草",
         "airportCode": "AXJ",
-        "time": "19:45"
+        "time": "15:15"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "AMX801",
+      "airline": "AMX",
+      "departure": {
+        "airport": "熊本",
+        "airportCode": "KMJ",
+        "time": "10:45"
+      },
+      "arrival": {
+        "airport": "伊丹",
+        "airportCode": "ITM",
+        "time": "12:10"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "AMX802",
+      "airline": "AMX",
+      "departure": {
+        "airport": "伊丹",
+        "airportCode": "ITM",
+        "time": "12:50"
+      },
+      "arrival": {
+        "airport": "熊本",
+        "airportCode": "KMJ",
+        "time": "14:20"
       },
       "operatingDays": [
         1,
@@ -1800,12 +1800,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "11:00"
+        "time": "11:05"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "12:05"
+        "time": "12:10"
       },
       "operatingDays": [
         1,
@@ -6303,29 +6303,6 @@
       ]
     },
     {
-      "flightNumber": "ANA1731",
-      "airline": "ANA",
-      "departure": {
-        "airport": "関西",
-        "airportCode": "KIX",
-        "time": "08:00"
-      },
-      "arrival": {
-        "airport": "那覇",
-        "airportCode": "OKA",
-        "time": "10:10"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
       "flightNumber": "ANA1738",
       "airline": "ANA",
       "departure": {
@@ -6349,17 +6326,40 @@
       ]
     },
     {
-      "flightNumber": "ANA1747",
+      "flightNumber": "ANA1749",
       "airline": "ANA",
       "departure": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "09:30"
+        "time": "10:00"
       },
       "arrival": {
-        "airport": "石垣",
-        "airportCode": "ISG",
-        "time": "12:05"
+        "airport": "宮古",
+        "airportCode": "MMY",
+        "time": "12:30"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "ANA1750",
+      "airline": "ANA",
+      "departure": {
+        "airport": "宮古",
+        "airportCode": "MMY",
+        "time": "13:15"
+      },
+      "arrival": {
+        "airport": "関西",
+        "airportCode": "KIX",
+        "time": "15:30"
       },
       "operatingDays": [
         1,
@@ -29717,17 +29717,17 @@
       ]
     },
     {
-      "flightNumber": "JAL3890",
+      "flightNumber": "JAL3872",
       "airline": "JAL",
       "departure": {
         "airport": "天草",
         "airportCode": "AXJ",
-        "time": "07:40"
+        "time": "09:55"
       },
       "arrival": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "08:20"
+        "airport": "熊本",
+        "airportCode": "KMJ",
+        "time": "10:15"
       },
       "operatingDays": [
         1,
@@ -29740,17 +29740,63 @@
       ]
     },
     {
-      "flightNumber": "JAL3891",
+      "flightNumber": "JAL3873",
       "airline": "JAL",
       "departure": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "08:50"
+        "airport": "熊本",
+        "airportCode": "KMJ",
+        "time": "14:50"
       },
       "arrival": {
         "airport": "天草",
         "airportCode": "AXJ",
-        "time": "09:25"
+        "time": "15:15"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JAL3880",
+      "airline": "JAL",
+      "departure": {
+        "airport": "熊本",
+        "airportCode": "KMJ",
+        "time": "10:45"
+      },
+      "arrival": {
+        "airport": "伊丹",
+        "airportCode": "ITM",
+        "time": "12:10"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JAL3881",
+      "airline": "JAL",
+      "departure": {
+        "airport": "伊丹",
+        "airportCode": "ITM",
+        "time": "12:50"
+      },
+      "arrival": {
+        "airport": "熊本",
+        "airportCode": "KMJ",
+        "time": "14:20"
       },
       "operatingDays": [
         1,
@@ -29809,17 +29855,17 @@
       ]
     },
     {
-      "flightNumber": "JAL3898",
+      "flightNumber": "JAL4041",
       "airline": "JAL",
       "departure": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "18:00"
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "08:55"
       },
       "arrival": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "18:40"
+        "airport": "壱岐",
+        "airportCode": "IKI",
+        "time": "09:25"
       },
       "operatingDays": [
         1,
@@ -29832,17 +29878,17 @@
       ]
     },
     {
-      "flightNumber": "JAL3899",
+      "flightNumber": "JAL4042",
       "airline": "JAL",
       "departure": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "19:10"
+        "airport": "壱岐",
+        "airportCode": "IKI",
+        "time": "09:55"
       },
       "arrival": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "19:45"
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "10:25"
       },
       "operatingDays": [
         1,
@@ -29947,6 +29993,52 @@
       ]
     },
     {
+      "flightNumber": "JAL4053",
+      "airline": "JAL",
+      "departure": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "11:00"
+      },
+      "arrival": {
+        "airport": "対馬",
+        "airportCode": "TSJ",
+        "time": "11:35"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JAL4054",
+      "airline": "JAL",
+      "departure": {
+        "airport": "対馬",
+        "airportCode": "TSJ",
+        "time": "12:05"
+      },
+      "arrival": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "12:45"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
       "flightNumber": "JAL4061",
       "airline": "JAL",
       "departure": {
@@ -30039,17 +30131,17 @@
       ]
     },
     {
-      "flightNumber": "JAL4076",
+      "flightNumber": "JAL4075",
       "airline": "JAL",
       "departure": {
-        "airport": "五島福江",
-        "airportCode": "FUJ",
-        "time": "15:45"
-      },
-      "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "16:15"
+        "time": "13:20"
+      },
+      "arrival": {
+        "airport": "五島福江",
+        "airportCode": "FUJ",
+        "time": "13:50"
       },
       "operatingDays": [
         1,
@@ -30062,17 +30154,17 @@
       ]
     },
     {
-      "flightNumber": "JAL4077",
+      "flightNumber": "JAL4078",
       "airline": "JAL",
       "departure": {
-        "airport": "長崎",
-        "airportCode": "NGS",
-        "time": "14:45"
-      },
-      "arrival": {
         "airport": "五島福江",
         "airportCode": "FUJ",
-        "time": "15:15"
+        "time": "17:00"
+      },
+      "arrival": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "17:30"
       },
       "operatingDays": [
         1,
@@ -30257,6 +30349,52 @@
         "airport": "五島福江",
         "airportCode": "FUJ",
         "time": "17:25"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JAL4098",
+      "airline": "JAL",
+      "departure": {
+        "airport": "五島福江",
+        "airportCode": "FUJ",
+        "time": "14:20"
+      },
+      "arrival": {
+        "airport": "福岡",
+        "airportCode": "FUK",
+        "time": "15:05"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JAL4099",
+      "airline": "JAL",
+      "departure": {
+        "airport": "福岡",
+        "airportCode": "FUK",
+        "time": "15:40"
+      },
+      "arrival": {
+        "airport": "五島福江",
+        "airportCode": "FUJ",
+        "time": "16:30"
       },
       "operatingDays": [
         1,
@@ -38595,6 +38733,52 @@
       ]
     },
     {
+      "flightNumber": "ORC41",
+      "airline": "ORC",
+      "departure": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "08:55"
+      },
+      "arrival": {
+        "airport": "壱岐",
+        "airportCode": "IKI",
+        "time": "09:25"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "ORC42",
+      "airline": "ORC",
+      "departure": {
+        "airport": "壱岐",
+        "airportCode": "IKI",
+        "time": "09:55"
+      },
+      "arrival": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "10:25"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
       "flightNumber": "ORC43",
       "airline": "ORC",
       "departure": {
@@ -38813,6 +38997,52 @@
         "airport": "長崎",
         "airportCode": "NGS",
         "time": "09:15"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "ORC53",
+      "airline": "ORC",
+      "departure": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "11:00"
+      },
+      "arrival": {
+        "airport": "対馬",
+        "airportCode": "TSJ",
+        "time": "11:35"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "ORC54",
+      "airline": "ORC",
+      "departure": {
+        "airport": "対馬",
+        "airportCode": "TSJ",
+        "time": "12:05"
+      },
+      "arrival": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "12:45"
       },
       "operatingDays": [
         1,
@@ -39193,17 +39423,17 @@
       ]
     },
     {
-      "flightNumber": "ORC76",
+      "flightNumber": "ORC75",
       "airline": "ORC",
       "departure": {
-        "airport": "五島福江",
-        "airportCode": "FUJ",
-        "time": "15:45"
-      },
-      "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "16:15"
+        "time": "13:20"
+      },
+      "arrival": {
+        "airport": "五島福江",
+        "airportCode": "FUJ",
+        "time": "13:50"
       },
       "operatingDays": [
         1,
@@ -39216,17 +39446,17 @@
       ]
     },
     {
-      "flightNumber": "ORC77",
+      "flightNumber": "ORC78",
       "airline": "ORC",
       "departure": {
-        "airport": "長崎",
-        "airportCode": "NGS",
-        "time": "14:45"
-      },
-      "arrival": {
         "airport": "五島福江",
         "airportCode": "FUJ",
-        "time": "15:15"
+        "time": "17:00"
+      },
+      "arrival": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "17:30"
       },
       "operatingDays": [
         1,
@@ -39549,6 +39779,52 @@
         "airport": "五島福江",
         "airportCode": "FUJ",
         "time": "17:25"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "ORC98",
+      "airline": "ORC",
+      "departure": {
+        "airport": "五島福江",
+        "airportCode": "FUJ",
+        "time": "14:20"
+      },
+      "arrival": {
+        "airport": "福岡",
+        "airportCode": "FUK",
+        "time": "15:05"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "ORC99",
+      "airline": "ORC",
+      "departure": {
+        "airport": "福岡",
+        "airportCode": "FUK",
+        "time": "15:40"
+      },
+      "arrival": {
+        "airport": "五島福江",
+        "airportCode": "FUJ",
+        "time": "16:30"
       },
       "operatingDays": [
         1,
