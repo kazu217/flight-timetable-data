@@ -1519,52 +1519,6 @@
       ]
     },
     {
-      "flightNumber": "AMX101",
-      "airline": "AMX",
-      "departure": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "07:40"
-      },
-      "arrival": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "08:20"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "AMX102",
-      "airline": "AMX",
-      "departure": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "08:50"
-      },
-      "arrival": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "09:25"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
       "flightNumber": "AMX105",
       "airline": "AMX",
       "departure": {
@@ -1599,52 +1553,6 @@
         "airport": "天草",
         "airportCode": "AXJ",
         "time": "17:30"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "AMX107",
-      "airline": "AMX",
-      "departure": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "18:00"
-      },
-      "arrival": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "18:40"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "AMX108",
-      "airline": "AMX",
-      "departure": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "19:10"
-      },
-      "arrival": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "19:45"
       },
       "operatingDays": [
         1,
@@ -2053,7 +1961,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "12:50"
+        "time": "12:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -2104,7 +2012,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "15:20"
+        "time": "15:15"
       },
       "operatingDays": [
         1,
@@ -2127,7 +2035,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "16:20"
+        "time": "16:15"
       },
       "operatingDays": [
         1,
@@ -2168,12 +2076,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "15:30"
+        "time": "15:40"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "16:55"
+        "time": "17:00"
       },
       "operatingDays": [
         1,
@@ -2219,7 +2127,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "18:05"
+        "time": "18:00"
       },
       "operatingDays": [
         1,
@@ -2260,7 +2168,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "17:40"
+        "time": "17:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -2311,7 +2219,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "20:20"
+        "time": "20:15"
       },
       "operatingDays": [
         1,
@@ -2472,7 +2380,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "09:35"
+        "time": "09:30"
       },
       "operatingDays": [
         1,
@@ -2840,7 +2748,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "16:35"
+        "time": "16:30"
       },
       "operatingDays": [
         1,
@@ -2909,7 +2817,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "18:45"
+        "time": "18:40"
       },
       "operatingDays": [
         1,
@@ -2955,7 +2863,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "19:40"
+        "time": "19:35"
       },
       "operatingDays": [
         1,
@@ -3185,7 +3093,7 @@
       "arrival": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "14:55"
+        "time": "15:00"
       },
       "operatingDays": [
         1,
@@ -3203,7 +3111,7 @@
       "departure": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "15:50"
+        "time": "15:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -3231,7 +3139,7 @@
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "11:25"
+        "time": "11:30"
       },
       "operatingDays": [
         1,
@@ -3249,7 +3157,7 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "12:15"
+        "time": "12:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -3277,7 +3185,7 @@
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "14:40"
+        "time": "14:45"
       },
       "operatingDays": [
         1,
@@ -3295,7 +3203,7 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "15:35"
+        "time": "15:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -3474,6 +3382,52 @@
       ]
     },
     {
+      "flightNumber": "ANA1071",
+      "airline": "ANA",
+      "departure": {
+        "airport": "羽田",
+        "airportCode": "HND",
+        "time": "13:35"
+      },
+      "arrival": {
+        "airport": "庄内",
+        "airportCode": "SYO",
+        "time": "14:35"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "ANA1072",
+      "airline": "ANA",
+      "departure": {
+        "airport": "庄内",
+        "airportCode": "SYO",
+        "time": "15:20"
+      },
+      "arrival": {
+        "airport": "羽田",
+        "airportCode": "HND",
+        "time": "16:25"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
       "flightNumber": "ANA1075",
       "airline": "ANA",
       "departure": {
@@ -3484,7 +3438,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "08:30"
+        "time": "08:35"
       },
       "operatingDays": [
         1,
@@ -3502,7 +3456,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "09:25"
+        "time": "09:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -3530,7 +3484,7 @@
       "arrival": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "10:40"
+        "time": "10:45"
       },
       "operatingDays": [
         1,
@@ -3548,7 +3502,7 @@
       "departure": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "11:40"
+        "time": "11:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -3576,7 +3530,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "16:50"
+        "time": "16:55"
       },
       "operatingDays": [
         1,
@@ -3594,7 +3548,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "17:35"
+        "time": "17:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -3640,7 +3594,7 @@
       "departure": {
         "airport": "米子",
         "airportCode": "YGJ",
-        "time": "13:50"
+        "time": "14:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -3668,7 +3622,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "18:40"
+        "time": "18:45"
       },
       "operatingDays": [
         1,
@@ -3686,7 +3640,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "19:40"
+        "time": "19:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -3714,7 +3668,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "19:25"
+        "time": "19:30"
       },
       "operatingDays": [
         1,
@@ -3732,7 +3686,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "20:35"
+        "time": "20:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -3806,7 +3760,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "17:05"
+        "time": "17:00"
       },
       "operatingDays": [
         1,
@@ -3830,52 +3784,6 @@
         "airport": "羽田",
         "airportCode": "HND",
         "time": "18:40"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "ANA1107",
-      "airline": "ANA",
-      "departure": {
-        "airport": "中部",
-        "airportCode": "NGO",
-        "time": "09:40"
-      },
-      "arrival": {
-        "airport": "新千歳",
-        "airportCode": "CTS",
-        "time": "11:25"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "ANA1108",
-      "airline": "ANA",
-      "departure": {
-        "airport": "新千歳",
-        "airportCode": "CTS",
-        "time": "12:45"
-      },
-      "arrival": {
-        "airport": "中部",
-        "airportCode": "NGO",
-        "time": "14:30"
       },
       "operatingDays": [
         1,
@@ -3944,7 +3852,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "23:15"
+        "time": "23:20"
       },
       "operatingDays": [
         1,
@@ -3962,7 +3870,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "21:00"
+        "time": "21:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -4716,98 +4624,6 @@
       ]
     },
     {
-      "flightNumber": "ANA1261",
-      "airline": "ANA",
-      "departure": {
-        "airport": "静岡",
-        "airportCode": "FSZ",
-        "time": "14:10"
-      },
-      "arrival": {
-        "airport": "新千歳",
-        "airportCode": "CTS",
-        "time": "15:55"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "ANA1262",
-      "airline": "ANA",
-      "departure": {
-        "airport": "新千歳",
-        "airportCode": "CTS",
-        "time": "10:05"
-      },
-      "arrival": {
-        "airport": "静岡",
-        "airportCode": "FSZ",
-        "time": "11:55"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "ANA1263",
-      "airline": "ANA",
-      "departure": {
-        "airport": "静岡",
-        "airportCode": "FSZ",
-        "time": "12:40"
-      },
-      "arrival": {
-        "airport": "那覇",
-        "airportCode": "OKA",
-        "time": "15:10"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "ANA1264",
-      "airline": "ANA",
-      "departure": {
-        "airport": "那覇",
-        "airportCode": "OKA",
-        "time": "11:15"
-      },
-      "arrival": {
-        "airport": "静岡",
-        "airportCode": "FSZ",
-        "time": "13:30"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
       "flightNumber": "ANA1267",
       "airline": "ANA",
       "departure": {
@@ -5411,12 +5227,12 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "07:25"
+        "time": "07:30"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "08:15"
+        "time": "08:20"
       },
       "operatingDays": [
         1,
@@ -5434,12 +5250,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "07:05"
+        "time": "07:10"
       },
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "07:55"
+        "time": "08:00"
       },
       "operatingDays": [
         1,
@@ -5457,12 +5273,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "08:55"
+        "time": "09:00"
       },
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "09:45"
+        "time": "09:50"
       },
       "operatingDays": [
         1,
@@ -5480,12 +5296,12 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "08:25"
+        "time": "08:30"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "09:15"
+        "time": "09:20"
       },
       "operatingDays": [
         1,
@@ -7205,7 +7021,7 @@
       "departure": {
         "airport": "仙台",
         "airportCode": "SDJ",
-        "time": "12:00"
+        "time": "11:55"
       },
       "arrival": {
         "airport": "那覇",
@@ -7228,7 +7044,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:00"
+        "time": "14:05"
       },
       "arrival": {
         "airport": "仙台",
@@ -7251,12 +7067,12 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "11:15"
+        "time": "11:10"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "12:50"
+        "time": "12:45"
       },
       "operatingDays": [
         1,
@@ -7297,12 +7113,12 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "10:25"
+        "time": "10:30"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "12:15"
+        "time": "12:20"
       },
       "operatingDays": [
         1,
@@ -7412,7 +7228,7 @@
       "departure": {
         "airport": "八丈島",
         "airportCode": "HAC",
-        "time": "13:50"
+        "time": "13:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -7458,7 +7274,7 @@
       "departure": {
         "airport": "八丈島",
         "airportCode": "HAC",
-        "time": "17:20"
+        "time": "17:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -7578,7 +7394,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "08:05"
+        "time": "08:10"
       },
       "operatingDays": [
         1,
@@ -7624,7 +7440,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "09:20"
+        "time": "09:25"
       },
       "operatingDays": [
         1,
@@ -7642,7 +7458,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "07:45"
+        "time": "07:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -7665,7 +7481,7 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "08:15"
+        "time": "08:10"
       },
       "arrival": {
         "airport": "福岡",
@@ -7688,7 +7504,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "08:35"
+        "time": "08:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -7711,12 +7527,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "08:40"
+        "time": "08:45"
       },
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "10:25"
+        "time": "10:35"
       },
       "operatingDays": [
         1,
@@ -7734,7 +7550,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "10:10"
+        "time": "10:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -7762,7 +7578,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "11:25"
+        "time": "11:30"
       },
       "operatingDays": [
         1,
@@ -7780,7 +7596,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "10:45"
+        "time": "10:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -7808,7 +7624,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "12:05"
+        "time": "12:10"
       },
       "operatingDays": [
         1,
@@ -7826,7 +7642,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "11:20"
+        "time": "11:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -7854,7 +7670,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "13:15"
+        "time": "13:20"
       },
       "operatingDays": [
         1,
@@ -7872,7 +7688,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "12:15"
+        "time": "12:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -7900,7 +7716,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "14:25"
+        "time": "14:30"
       },
       "operatingDays": [
         1,
@@ -7918,7 +7734,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "12:55"
+        "time": "13:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -7946,7 +7762,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "15:15"
+        "time": "15:20"
       },
       "operatingDays": [
         1,
@@ -7964,12 +7780,12 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "14:10"
+        "time": "14:15"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "16:05"
+        "time": "16:00"
       },
       "operatingDays": [
         1,
@@ -7992,7 +7808,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "16:10"
+        "time": "16:15"
       },
       "operatingDays": [
         1,
@@ -8010,7 +7826,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "15:15"
+        "time": "15:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -8038,7 +7854,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "16:50"
+        "time": "16:55"
       },
       "operatingDays": [
         1,
@@ -8056,7 +7872,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "16:15"
+        "time": "16:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -8084,7 +7900,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "17:30"
+        "time": "17:35"
       },
       "operatingDays": [
         1,
@@ -8102,7 +7918,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "17:05"
+        "time": "17:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -8130,7 +7946,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "18:15"
+        "time": "18:20"
       },
       "operatingDays": [
         1,
@@ -8148,7 +7964,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "17:40"
+        "time": "17:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -8176,7 +7992,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "19:00"
+        "time": "19:05"
       },
       "operatingDays": [
         1,
@@ -8194,12 +8010,12 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "18:25"
+        "time": "18:30"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "20:20"
+        "time": "20:15"
       },
       "operatingDays": [
         1,
@@ -8222,7 +8038,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "19:50"
+        "time": "19:55"
       },
       "operatingDays": [
         1,
@@ -8240,7 +8056,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "19:10"
+        "time": "19:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -8268,7 +8084,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "20:45"
+        "time": "20:50"
       },
       "operatingDays": [
         1,
@@ -8314,7 +8130,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "21:10"
+        "time": "21:15"
       },
       "operatingDays": [
         1,
@@ -8332,7 +8148,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "20:40"
+        "time": "20:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -8470,7 +8286,7 @@
       "departure": {
         "airport": "徳島",
         "airportCode": "TKS",
-        "time": "15:25"
+        "time": "15:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -8700,12 +8516,12 @@
       "departure": {
         "airport": "鳥取",
         "airportCode": "TTJ",
-        "time": "15:10"
+        "time": "15:20"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "16:40"
+        "time": "16:45"
       },
       "operatingDays": [
         1,
@@ -8746,7 +8562,7 @@
       "departure": {
         "airport": "鳥取",
         "airportCode": "TTJ",
-        "time": "18:20"
+        "time": "18:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -9137,7 +8953,7 @@
       "departure": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "11:35"
+        "time": "11:30"
       },
       "arrival": {
         "airport": "宮古",
@@ -9165,7 +8981,7 @@
       "arrival": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "17:15"
+        "time": "17:10"
       },
       "operatingDays": [
         1,
@@ -9326,7 +9142,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "08:45"
+        "time": "08:50"
       },
       "operatingDays": [
         1,
@@ -9344,7 +9160,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "09:25"
+        "time": "09:30"
       },
       "arrival": {
         "airport": "中部",
@@ -9372,7 +9188,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "19:20"
+        "time": "19:25"
       },
       "operatingDays": [
         1,
@@ -9390,7 +9206,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "20:05"
+        "time": "20:10"
       },
       "arrival": {
         "airport": "中部",
@@ -9712,7 +9528,7 @@
       "departure": {
         "airport": "米子",
         "airportCode": "YGJ",
-        "time": "17:15"
+        "time": "17:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -9827,12 +9643,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "10:55"
+        "time": "10:30"
       },
       "arrival": {
         "airport": "庄内",
         "airportCode": "SYO",
-        "time": "11:55"
+        "time": "11:30"
       },
       "operatingDays": [
         1,
@@ -9896,12 +9712,12 @@
       "departure": {
         "airport": "庄内",
         "airportCode": "SYO",
-        "time": "12:45"
+        "time": "12:10"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "13:55"
+        "time": "13:20"
       },
       "operatingDays": [
         1,
@@ -10126,12 +9942,12 @@
       "departure": {
         "airport": "秋田",
         "airportCode": "AXT",
-        "time": "15:50"
+        "time": "15:45"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "17:05"
+        "time": "17:00"
       },
       "operatingDays": [
         1,
@@ -10517,12 +10333,12 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "08:50"
+        "time": "08:55"
       },
       "arrival": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "10:05"
+        "time": "10:10"
       },
       "operatingDays": [
         1,
@@ -10568,7 +10384,7 @@
       "arrival": {
         "airport": "佐賀",
         "airportCode": "HSG",
-        "time": "09:05"
+        "time": "09:10"
       },
       "operatingDays": [
         1,
@@ -10586,7 +10402,7 @@
       "departure": {
         "airport": "佐賀",
         "airportCode": "HSG",
-        "time": "06:35"
+        "time": "06:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -10614,7 +10430,7 @@
       "arrival": {
         "airport": "佐賀",
         "airportCode": "HSG",
-        "time": "14:55"
+        "time": "15:00"
       },
       "operatingDays": [
         1,
@@ -10632,7 +10448,7 @@
       "departure": {
         "airport": "佐賀",
         "airportCode": "HSG",
-        "time": "09:45"
+        "time": "09:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -10660,7 +10476,7 @@
       "arrival": {
         "airport": "佐賀",
         "airportCode": "HSG",
-        "time": "18:20"
+        "time": "18:25"
       },
       "operatingDays": [
         1,
@@ -10678,12 +10494,12 @@
       "departure": {
         "airport": "佐賀",
         "airportCode": "HSG",
-        "time": "15:40"
+        "time": "15:45"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "17:35"
+        "time": "17:30"
       },
       "operatingDays": [
         1,
@@ -10706,7 +10522,7 @@
       "arrival": {
         "airport": "佐賀",
         "airportCode": "HSG",
-        "time": "21:25"
+        "time": "21:30"
       },
       "operatingDays": [
         1,
@@ -10724,12 +10540,12 @@
       "departure": {
         "airport": "佐賀",
         "airportCode": "HSG",
-        "time": "19:05"
+        "time": "19:10"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "20:55"
+        "time": "20:50"
       },
       "operatingDays": [
         1,
@@ -10747,7 +10563,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "08:00"
+        "time": "08:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -10775,7 +10591,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "09:00"
+        "time": "09:05"
       },
       "operatingDays": [
         1,
@@ -10793,7 +10609,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:55"
+        "time": "11:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -10821,7 +10637,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:05"
+        "time": "10:10"
       },
       "operatingDays": [
         1,
@@ -10839,7 +10655,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "11:55"
+        "time": "12:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -10867,7 +10683,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:50"
+        "time": "10:55"
       },
       "operatingDays": [
         1,
@@ -10885,12 +10701,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "13:55"
+        "time": "14:00"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "16:35"
+        "time": "16:30"
       },
       "operatingDays": [
         1,
@@ -10913,7 +10729,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "13:00"
+        "time": "13:05"
       },
       "operatingDays": [
         1,
@@ -10931,12 +10747,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:55"
+        "time": "15:10"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "17:35"
+        "time": "17:40"
       },
       "operatingDays": [
         1,
@@ -10954,12 +10770,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "11:20"
+        "time": "11:25"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:00"
+        "time": "14:10"
       },
       "operatingDays": [
         1,
@@ -10977,7 +10793,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "16:35"
+        "time": "16:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -11005,7 +10821,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "15:40"
+        "time": "15:45"
       },
       "operatingDays": [
         1,
@@ -11023,7 +10839,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "18:10"
+        "time": "18:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -11051,7 +10867,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "17:20"
+        "time": "17:25"
       },
       "operatingDays": [
         1,
@@ -11069,7 +10885,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "18:55"
+        "time": "19:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -11097,7 +10913,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "17:55"
+        "time": "18:00"
       },
       "operatingDays": [
         1,
@@ -11115,7 +10931,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "20:40"
+        "time": "20:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -11143,7 +10959,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "22:45"
+        "time": "22:50"
       },
       "operatingDays": [
         1,
@@ -11190,52 +11006,6 @@
         "airport": "成田",
         "airportCode": "NRT",
         "time": "15:20"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "ANA499",
-      "airline": "ANA",
-      "departure": {
-        "airport": "中部",
-        "airportCode": "NGO",
-        "time": "16:05"
-      },
-      "arrival": {
-        "airport": "函館",
-        "airportCode": "HKD",
-        "time": "17:35"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "ANA500",
-      "airline": "ANA",
-      "departure": {
-        "airport": "函館",
-        "airportCode": "HKD",
-        "time": "18:10"
-      },
-      "arrival": {
-        "airport": "中部",
-        "airportCode": "NGO",
-        "time": "19:45"
       },
       "operatingDays": [
         1,
@@ -11828,7 +11598,7 @@
       "departure": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "13:30"
+        "time": "13:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -11874,7 +11644,7 @@
       "departure": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "16:45"
+        "time": "16:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -11897,12 +11667,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "20:05"
+        "time": "20:00"
       },
       "arrival": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "21:25"
+        "time": "21:20"
       },
       "operatingDays": [
         1,
@@ -12293,7 +12063,7 @@
       "arrival": {
         "airport": "函館",
         "airportCode": "HKD",
-        "time": "18:30"
+        "time": "18:25"
       },
       "operatingDays": [
         1,
@@ -12311,12 +12081,12 @@
       "departure": {
         "airport": "函館",
         "airportCode": "HKD",
-        "time": "19:20"
+        "time": "19:15"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "20:50"
+        "time": "20:45"
       },
       "operatingDays": [
         1,
@@ -12518,7 +12288,7 @@
       "departure": {
         "airport": "高知",
         "airportCode": "KCZ",
-        "time": "16:05"
+        "time": "16:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -12628,52 +12398,6 @@
       ]
     },
     {
-      "flightNumber": "ANA573",
-      "airline": "ANA",
-      "departure": {
-        "airport": "羽田",
-        "airportCode": "HND",
-        "time": "13:20"
-      },
-      "arrival": {
-        "airport": "稚内",
-        "airportCode": "WKJ",
-        "time": "15:10"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "ANA574",
-      "airline": "ANA",
-      "departure": {
-        "airport": "稚内",
-        "airportCode": "WKJ",
-        "time": "15:50"
-      },
-      "arrival": {
-        "airport": "羽田",
-        "airportCode": "HND",
-        "time": "17:50"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
       "flightNumber": "ANA577",
       "airline": "ANA",
       "departure": {
@@ -12730,7 +12454,7 @@
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "13:35"
+        "time": "13:40"
       },
       "operatingDays": [
         1,
@@ -12748,7 +12472,7 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "14:20"
+        "time": "14:25"
       },
       "arrival": {
         "airport": "中部",
@@ -12771,7 +12495,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "07:15"
+        "time": "07:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -12799,7 +12523,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "08:40"
+        "time": "08:45"
       },
       "operatingDays": [
         1,
@@ -12817,7 +12541,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "09:30"
+        "time": "09:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -12845,7 +12569,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "10:40"
+        "time": "10:45"
       },
       "operatingDays": [
         1,
@@ -12868,7 +12592,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "13:30"
+        "time": "13:35"
       },
       "operatingDays": [
         1,
@@ -12886,7 +12610,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "11:25"
+        "time": "11:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -12909,7 +12633,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "14:15"
+        "time": "14:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -12937,7 +12661,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "15:45"
+        "time": "15:50"
       },
       "operatingDays": [
         1,
@@ -12960,7 +12684,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "18:55"
+        "time": "19:00"
       },
       "operatingDays": [
         1,
@@ -12978,7 +12702,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "16:35"
+        "time": "16:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -13001,7 +12725,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "19:45"
+        "time": "19:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -13029,7 +12753,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "21:05"
+        "time": "21:10"
       },
       "operatingDays": [
         1,
@@ -13047,7 +12771,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "08:05"
+        "time": "08:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -13075,7 +12799,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "09:20"
+        "time": "09:25"
       },
       "operatingDays": [
         1,
@@ -13098,7 +12822,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "12:25"
+        "time": "12:30"
       },
       "operatingDays": [
         1,
@@ -13116,7 +12840,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "10:05"
+        "time": "10:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -13144,7 +12868,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "15:00"
+        "time": "15:05"
       },
       "operatingDays": [
         1,
@@ -13162,7 +12886,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "13:10"
+        "time": "13:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -13190,7 +12914,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "19:15"
+        "time": "19:20"
       },
       "operatingDays": [
         1,
@@ -13208,7 +12932,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "15:45"
+        "time": "15:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -13236,7 +12960,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "20:45"
+        "time": "20:50"
       },
       "operatingDays": [
         1,
@@ -13259,7 +12983,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "21:50"
+        "time": "21:45"
       },
       "operatingDays": [
         1,
@@ -13282,7 +13006,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "08:25"
+        "time": "08:30"
       },
       "operatingDays": [
         1,
@@ -13300,7 +13024,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "07:40"
+        "time": "07:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -13328,7 +13052,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "11:10"
+        "time": "11:15"
       },
       "operatingDays": [
         1,
@@ -13346,7 +13070,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "09:05"
+        "time": "09:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -13369,12 +13093,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "11:35"
+        "time": "11:40"
       },
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "13:25"
+        "time": "13:30"
       },
       "operatingDays": [
         1,
@@ -13392,7 +13116,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "12:00"
+        "time": "12:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -13438,7 +13162,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "14:05"
+        "time": "14:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -13466,7 +13190,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "18:20"
+        "time": "18:25"
       },
       "operatingDays": [
         1,
@@ -13484,7 +13208,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "16:25"
+        "time": "16:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -13512,7 +13236,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "20:50"
+        "time": "20:55"
       },
       "operatingDays": [
         1,
@@ -13530,7 +13254,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "19:10"
+        "time": "19:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -13558,7 +13282,7 @@
       "arrival": {
         "airport": "岩国",
         "airportCode": "IWK",
-        "time": "08:10"
+        "time": "08:15"
       },
       "operatingDays": [
         1,
@@ -13576,7 +13300,7 @@
       "departure": {
         "airport": "岩国",
         "airportCode": "IWK",
-        "time": "07:35"
+        "time": "07:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -13604,7 +13328,7 @@
       "arrival": {
         "airport": "岩国",
         "airportCode": "IWK",
-        "time": "10:55"
+        "time": "11:00"
       },
       "operatingDays": [
         1,
@@ -13622,7 +13346,7 @@
       "departure": {
         "airport": "岩国",
         "airportCode": "IWK",
-        "time": "08:50"
+        "time": "08:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -13650,7 +13374,7 @@
       "arrival": {
         "airport": "岩国",
         "airportCode": "IWK",
-        "time": "12:50"
+        "time": "12:55"
       },
       "operatingDays": [
         1,
@@ -13668,7 +13392,7 @@
       "departure": {
         "airport": "岩国",
         "airportCode": "IWK",
-        "time": "13:35"
+        "time": "13:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -13696,7 +13420,7 @@
       "arrival": {
         "airport": "岩国",
         "airportCode": "IWK",
-        "time": "18:30"
+        "time": "18:35"
       },
       "operatingDays": [
         1,
@@ -13714,7 +13438,7 @@
       "departure": {
         "airport": "岩国",
         "airportCode": "IWK",
-        "time": "17:40"
+        "time": "17:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -13742,7 +13466,7 @@
       "arrival": {
         "airport": "岩国",
         "airportCode": "IWK",
-        "time": "21:35"
+        "time": "21:40"
       },
       "operatingDays": [
         1,
@@ -13760,7 +13484,7 @@
       "departure": {
         "airport": "岩国",
         "airportCode": "IWK",
-        "time": "19:30"
+        "time": "19:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -13788,7 +13512,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "09:50"
+        "time": "09:55"
       },
       "operatingDays": [
         1,
@@ -13806,7 +13530,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "08:10"
+        "time": "08:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -13834,7 +13558,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "11:40"
+        "time": "11:45"
       },
       "operatingDays": [
         1,
@@ -13852,7 +13576,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "10:35"
+        "time": "10:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -13880,7 +13604,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "16:35"
+        "time": "16:40"
       },
       "operatingDays": [
         1,
@@ -13898,7 +13622,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "12:20"
+        "time": "12:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -13926,7 +13650,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "19:25"
+        "time": "19:30"
       },
       "operatingDays": [
         1,
@@ -13944,7 +13668,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "17:25"
+        "time": "17:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -13972,7 +13696,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "20:35"
+        "time": "20:40"
       },
       "operatingDays": [
         1,
@@ -13990,7 +13714,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "20:15"
+        "time": "20:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -14174,7 +13898,7 @@
       "departure": {
         "airport": "岡山",
         "airportCode": "OKJ",
-        "time": "17:20"
+        "time": "17:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -14243,12 +13967,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "08:10"
+        "time": "08:15"
       },
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "10:00"
+        "time": "10:10"
       },
       "operatingDays": [
         1,
@@ -14266,7 +13990,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "08:10"
+        "time": "08:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -14289,12 +14013,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "10:40"
+        "time": "10:55"
       },
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "12:30"
+        "time": "12:50"
       },
       "operatingDays": [
         1,
@@ -14312,7 +14036,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "10:55"
+        "time": "11:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -14335,12 +14059,12 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "13:25"
+        "time": "13:45"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "15:15"
+        "time": "15:25"
       },
       "operatingDays": [
         1,
@@ -14363,7 +14087,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "18:40"
+        "time": "18:45"
       },
       "operatingDays": [
         1,
@@ -14386,7 +14110,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "21:10"
+        "time": "21:15"
       },
       "operatingDays": [
         1,
@@ -14404,7 +14128,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "19:25"
+        "time": "19:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -14432,7 +14156,7 @@
       "arrival": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "08:25"
+        "time": "08:30"
       },
       "operatingDays": [
         1,
@@ -14478,7 +14202,7 @@
       "arrival": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "09:30"
+        "time": "09:35"
       },
       "operatingDays": [
         1,
@@ -14524,7 +14248,7 @@
       "arrival": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "10:30"
+        "time": "10:35"
       },
       "operatingDays": [
         1,
@@ -14542,7 +14266,7 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "10:20"
+        "time": "10:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -14570,7 +14294,7 @@
       "arrival": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "11:50"
+        "time": "11:55"
       },
       "operatingDays": [
         1,
@@ -14588,7 +14312,7 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "12:35"
+        "time": "12:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -14634,7 +14358,7 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "15:50"
+        "time": "15:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -14680,7 +14404,7 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "17:10"
+        "time": "17:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -14726,7 +14450,7 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "18:55"
+        "time": "19:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -14754,7 +14478,7 @@
       "arrival": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "21:00"
+        "time": "21:05"
       },
       "operatingDays": [
         1,
@@ -14772,7 +14496,7 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "20:20"
+        "time": "20:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -14800,7 +14524,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "09:20"
+        "time": "09:15"
       },
       "operatingDays": [
         1,
@@ -14823,7 +14547,7 @@
       "arrival": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "12:05"
+        "time": "12:10"
       },
       "operatingDays": [
         1,
@@ -14841,7 +14565,7 @@
       "departure": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "12:50"
+        "time": "12:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -14869,7 +14593,7 @@
       "arrival": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "17:25"
+        "time": "17:30"
       },
       "operatingDays": [
         1,
@@ -14892,7 +14616,7 @@
       "arrival": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "20:30"
+        "time": "20:35"
       },
       "operatingDays": [
         1,
@@ -14910,7 +14634,7 @@
       "departure": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "18:05"
+        "time": "18:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -15352,7 +15076,7 @@
       "arrival": {
         "airport": "萩石見",
         "airportCode": "IWJ",
-        "time": "10:20"
+        "time": "10:25"
       },
       "operatingDays": [
         1,
@@ -15370,7 +15094,7 @@
       "departure": {
         "airport": "萩石見",
         "airportCode": "IWJ",
-        "time": "11:00"
+        "time": "11:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -15398,7 +15122,7 @@
       "arrival": {
         "airport": "萩石見",
         "airportCode": "IWJ",
-        "time": "17:30"
+        "time": "17:35"
       },
       "operatingDays": [
         1,
@@ -15416,7 +15140,7 @@
       "departure": {
         "airport": "萩石見",
         "airportCode": "IWJ",
-        "time": "18:15"
+        "time": "18:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -15812,7 +15536,7 @@
       "arrival": {
         "airport": "能登",
         "airportCode": "NTQ",
-        "time": "16:30"
+        "time": "16:25"
       },
       "operatingDays": [
         1,
@@ -15830,12 +15554,12 @@
       "departure": {
         "airport": "能登",
         "airportCode": "NTQ",
-        "time": "17:10"
+        "time": "17:05"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "18:20"
+        "time": "18:15"
       },
       "operatingDays": [
         1,
@@ -15899,7 +15623,7 @@
       "departure": {
         "airport": "小松",
         "airportCode": "KMQ",
-        "time": "17:05"
+        "time": "17:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -16502,7 +16226,7 @@
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "09:30"
+        "time": "09:35"
       },
       "operatingDays": [
         1,
@@ -16520,7 +16244,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "07:35"
+        "time": "07:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -16548,7 +16272,7 @@
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "12:25"
+        "time": "12:30"
       },
       "operatingDays": [
         1,
@@ -16566,7 +16290,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "10:15"
+        "time": "10:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -16589,7 +16313,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "13:10"
+        "time": "13:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -16617,7 +16341,7 @@
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "17:05"
+        "time": "17:10"
       },
       "operatingDays": [
         1,
@@ -16640,7 +16364,7 @@
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "20:50"
+        "time": "20:55"
       },
       "operatingDays": [
         1,
@@ -16658,7 +16382,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "17:50"
+        "time": "18:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -16681,12 +16405,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "09:05"
+        "time": "09:25"
       },
       "arrival": {
         "airport": "佐賀",
         "airportCode": "HSG",
-        "time": "10:55"
+        "time": "11:20"
       },
       "operatingDays": [
         1,
@@ -16704,12 +16428,12 @@
       "departure": {
         "airport": "佐賀",
         "airportCode": "HSG",
-        "time": "11:35"
+        "time": "12:00"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "13:25"
+        "time": "13:45"
       },
       "operatingDays": [
         1,
@@ -16911,7 +16635,7 @@
       "departure": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "15:50"
+        "time": "15:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -16939,7 +16663,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "09:20"
+        "time": "09:25"
       },
       "operatingDays": [
         1,
@@ -16957,7 +16681,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:15"
+        "time": "10:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -16985,7 +16709,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "11:45"
+        "time": "11:50"
       },
       "operatingDays": [
         1,
@@ -17003,7 +16727,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "12:35"
+        "time": "12:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -17049,7 +16773,7 @@
       "departure": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "15:00"
+        "time": "15:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -18475,7 +18199,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "07:25"
+        "time": "07:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -18544,7 +18268,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "09:20"
+        "time": "09:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -18590,12 +18314,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "10:25"
+        "time": "10:20"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "11:35"
+        "time": "11:30"
       },
       "operatingDays": [
         1,
@@ -18636,7 +18360,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "11:25"
+        "time": "11:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -18682,7 +18406,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "12:25"
+        "time": "12:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -18728,7 +18452,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "13:25"
+        "time": "13:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -18774,7 +18498,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "14:20"
+        "time": "14:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -18820,7 +18544,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "15:35"
+        "time": "15:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -18848,7 +18572,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "16:00"
+        "time": "16:05"
       },
       "operatingDays": [
         1,
@@ -18866,7 +18590,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "16:30"
+        "time": "16:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -18912,7 +18636,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "16:50"
+        "time": "17:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -18935,7 +18659,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "18:25"
+        "time": "18:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -18963,7 +18687,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "18:40"
+        "time": "18:45"
       },
       "operatingDays": [
         1,
@@ -19004,7 +18728,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "19:35"
+        "time": "19:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -19050,7 +18774,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "20:05"
+        "time": "20:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -19124,7 +18848,7 @@
       "arrival": {
         "airport": "青森",
         "airportCode": "AOJ",
-        "time": "07:55"
+        "time": "08:00"
       },
       "operatingDays": [
         1,
@@ -19142,7 +18866,7 @@
       "departure": {
         "airport": "青森",
         "airportCode": "AOJ",
-        "time": "08:35"
+        "time": "08:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -19165,7 +18889,7 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "10:00"
+        "time": "10:05"
       },
       "arrival": {
         "airport": "青森",
@@ -19234,7 +18958,7 @@
       "departure": {
         "airport": "青森",
         "airportCode": "AOJ",
-        "time": "15:20"
+        "time": "15:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -19326,7 +19050,7 @@
       "departure": {
         "airport": "青森",
         "airportCode": "AOJ",
-        "time": "20:45"
+        "time": "20:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -19372,12 +19096,12 @@
       "departure": {
         "airport": "三沢",
         "airportCode": "MSJ",
-        "time": "10:00"
+        "time": "09:55"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "11:25"
+        "time": "11:20"
       },
       "operatingDays": [
         1,
@@ -19395,12 +19119,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "08:05"
+        "time": "08:00"
       },
       "arrival": {
         "airport": "三沢",
         "airportCode": "MSJ",
-        "time": "09:20"
+        "time": "09:15"
       },
       "operatingDays": [
         1,
@@ -19464,7 +19188,7 @@
       "departure": {
         "airport": "三沢",
         "airportCode": "MSJ",
-        "time": "16:50"
+        "time": "16:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -19607,7 +19331,7 @@
       "arrival": {
         "airport": "秋田",
         "airportCode": "AXT",
-        "time": "11:35"
+        "time": "11:40"
       },
       "operatingDays": [
         1,
@@ -19630,7 +19354,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "13:20"
+        "time": "13:25"
       },
       "operatingDays": [
         1,
@@ -19814,7 +19538,7 @@
       "arrival": {
         "airport": "山形",
         "airportCode": "GAJ",
-        "time": "18:35"
+        "time": "18:30"
       },
       "operatingDays": [
         1,
@@ -19832,7 +19556,7 @@
       "departure": {
         "airport": "小松",
         "airportCode": "KMQ",
-        "time": "07:35"
+        "time": "07:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -19878,7 +19602,7 @@
       "departure": {
         "airport": "小松",
         "airportCode": "KMQ",
-        "time": "08:50"
+        "time": "08:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -19952,7 +19676,7 @@
       "arrival": {
         "airport": "小松",
         "airportCode": "KMQ",
-        "time": "14:10"
+        "time": "14:15"
       },
       "operatingDays": [
         1,
@@ -19970,12 +19694,12 @@
       "departure": {
         "airport": "小松",
         "airportCode": "KMQ",
-        "time": "14:50"
+        "time": "14:55"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "16:10"
+        "time": "16:05"
       },
       "operatingDays": [
         1,
@@ -19993,7 +19717,7 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "16:50"
+        "time": "16:45"
       },
       "arrival": {
         "airport": "小松",
@@ -20021,7 +19745,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "19:55"
+        "time": "19:50"
       },
       "operatingDays": [
         1,
@@ -20039,12 +19763,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "18:45"
+        "time": "18:50"
       },
       "arrival": {
         "airport": "小松",
         "airportCode": "KMQ",
-        "time": "19:50"
+        "time": "19:55"
       },
       "operatingDays": [
         1,
@@ -20062,7 +19786,7 @@
       "departure": {
         "airport": "小松",
         "airportCode": "KMQ",
-        "time": "20:30"
+        "time": "20:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -20090,7 +19814,7 @@
       "arrival": {
         "airport": "小松",
         "airportCode": "KMQ",
-        "time": "21:40"
+        "time": "21:45"
       },
       "operatingDays": [
         1,
@@ -20113,7 +19837,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "10:50"
+        "time": "10:55"
       },
       "operatingDays": [
         1,
@@ -20136,7 +19860,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "09:30"
+        "time": "09:25"
       },
       "operatingDays": [
         1,
@@ -20182,7 +19906,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "13:35"
+        "time": "13:30"
       },
       "operatingDays": [
         1,
@@ -20200,12 +19924,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "12:45"
+        "time": "12:50"
       },
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "14:30"
+        "time": "14:35"
       },
       "operatingDays": [
         1,
@@ -20223,12 +19947,12 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "15:05"
+        "time": "15:10"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "17:00"
+        "time": "17:05"
       },
       "operatingDays": [
         1,
@@ -20292,7 +20016,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "15:55"
+        "time": "15:45"
       },
       "arrival": {
         "airport": "伊丹",
@@ -20315,7 +20039,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "17:45"
+        "time": "17:40"
       },
       "arrival": {
         "airport": "伊丹",
@@ -20361,12 +20085,12 @@
       "departure": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "07:40"
+        "time": "07:50"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "08:40"
+        "time": "08:50"
       },
       "operatingDays": [
         1,
@@ -20389,7 +20113,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "08:55"
+        "time": "08:50"
       },
       "operatingDays": [
         1,
@@ -20407,12 +20131,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "07:15"
+        "time": "07:20"
       },
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "08:25"
+        "time": "08:30"
       },
       "operatingDays": [
         1,
@@ -20430,12 +20154,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "09:50"
+        "time": "09:40"
       },
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "11:00"
+        "time": "10:55"
       },
       "operatingDays": [
         1,
@@ -20458,7 +20182,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "16:15"
+        "time": "16:10"
       },
       "operatingDays": [
         1,
@@ -20481,7 +20205,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "14:20"
+        "time": "14:25"
       },
       "operatingDays": [
         1,
@@ -20527,7 +20251,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "20:20"
+        "time": "20:15"
       },
       "operatingDays": [
         1,
@@ -20568,7 +20292,7 @@
       "departure": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "20:55"
+        "time": "21:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -20596,7 +20320,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:25"
+        "time": "10:30"
       },
       "operatingDays": [
         1,
@@ -20614,7 +20338,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "11:55"
+        "time": "12:00"
       },
       "arrival": {
         "airport": "伊丹",
@@ -20642,7 +20366,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "16:50"
+        "time": "16:55"
       },
       "operatingDays": [
         1,
@@ -20660,7 +20384,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "17:55"
+        "time": "18:00"
       },
       "arrival": {
         "airport": "伊丹",
@@ -20798,7 +20522,7 @@
       "departure": {
         "airport": "南紀白浜",
         "airportCode": "SHM",
-        "time": "13:45"
+        "time": "13:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -20849,7 +20573,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "11:20"
+        "time": "11:25"
       },
       "operatingDays": [
         1,
@@ -20918,7 +20642,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "15:30"
+        "time": "15:35"
       },
       "operatingDays": [
         1,
@@ -20936,12 +20660,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "16:50"
+        "time": "16:45"
       },
       "arrival": {
         "airport": "青森",
         "airportCode": "AOJ",
-        "time": "18:15"
+        "time": "18:10"
       },
       "operatingDays": [
         1,
@@ -20959,12 +20683,12 @@
       "departure": {
         "airport": "青森",
         "airportCode": "AOJ",
-        "time": "18:45"
+        "time": "18:40"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "20:30"
+        "time": "20:25"
       },
       "operatingDays": [
         1,
@@ -21097,12 +20821,12 @@
       "departure": {
         "airport": "秋田",
         "airportCode": "AXT",
-        "time": "09:45"
+        "time": "09:40"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "11:10"
+        "time": "11:05"
       },
       "operatingDays": [
         1,
@@ -21120,12 +20844,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "12:20"
+        "time": "12:30"
       },
       "arrival": {
         "airport": "秋田",
         "airportCode": "AXT",
-        "time": "13:35"
+        "time": "13:45"
       },
       "operatingDays": [
         1,
@@ -21143,12 +20867,12 @@
       "departure": {
         "airport": "秋田",
         "airportCode": "AXT",
-        "time": "14:10"
+        "time": "14:15"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "15:35"
+        "time": "15:40"
       },
       "operatingDays": [
         1,
@@ -21212,7 +20936,7 @@
       "departure": {
         "airport": "南紀白浜",
         "airportCode": "SHM",
-        "time": "18:25"
+        "time": "18:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -21240,7 +20964,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "10:45"
+        "time": "10:50"
       },
       "operatingDays": [
         1,
@@ -21304,7 +21028,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "11:45"
+        "time": "11:40"
       },
       "arrival": {
         "airport": "花巻",
@@ -21419,12 +21143,12 @@
       "departure": {
         "airport": "花巻",
         "airportCode": "HNA",
-        "time": "18:40"
+        "time": "18:45"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "20:15"
+        "time": "20:20"
       },
       "operatingDays": [
         1,
@@ -21442,7 +21166,7 @@
       "departure": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "06:40"
+        "time": "06:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -21488,12 +21212,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "07:20"
+        "time": "07:15"
       },
       "arrival": {
         "airport": "仙台",
         "airportCode": "SDJ",
-        "time": "08:35"
+        "time": "08:30"
       },
       "operatingDays": [
         1,
@@ -21511,12 +21235,12 @@
       "departure": {
         "airport": "仙台",
         "airportCode": "SDJ",
-        "time": "09:15"
+        "time": "09:05"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "10:30"
+        "time": "10:25"
       },
       "operatingDays": [
         1,
@@ -21539,7 +21263,7 @@
       "arrival": {
         "airport": "仙台",
         "airportCode": "SDJ",
-        "time": "10:45"
+        "time": "10:40"
       },
       "operatingDays": [
         1,
@@ -21557,7 +21281,7 @@
       "departure": {
         "airport": "仙台",
         "airportCode": "SDJ",
-        "time": "11:20"
+        "time": "11:15"
       },
       "arrival": {
         "airport": "伊丹",
@@ -21603,7 +21327,7 @@
       "departure": {
         "airport": "仙台",
         "airportCode": "SDJ",
-        "time": "12:40"
+        "time": "12:35"
       },
       "arrival": {
         "airport": "伊丹",
@@ -21626,7 +21350,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "13:50"
+        "time": "13:45"
       },
       "arrival": {
         "airport": "仙台",
@@ -21654,7 +21378,7 @@
       "arrival": {
         "airport": "仙台",
         "airportCode": "SDJ",
-        "time": "16:45"
+        "time": "16:40"
       },
       "operatingDays": [
         1,
@@ -21695,7 +21419,7 @@
       "departure": {
         "airport": "仙台",
         "airportCode": "SDJ",
-        "time": "15:35"
+        "time": "15:30"
       },
       "arrival": {
         "airport": "伊丹",
@@ -21723,7 +21447,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "17:25"
+        "time": "17:30"
       },
       "operatingDays": [
         1,
@@ -21741,7 +21465,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "17:10"
+        "time": "17:15"
       },
       "arrival": {
         "airport": "仙台",
@@ -21769,7 +21493,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "20:25"
+        "time": "20:30"
       },
       "operatingDays": [
         1,
@@ -21930,7 +21654,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "19:20"
+        "time": "19:25"
       },
       "operatingDays": [
         1,
@@ -21948,7 +21672,7 @@
       "departure": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "14:45"
+        "time": "14:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -22040,12 +21764,12 @@
       "departure": {
         "airport": "新潟",
         "airportCode": "KIJ",
-        "time": "12:10"
+        "time": "12:05"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "13:15"
+        "time": "13:10"
       },
       "operatingDays": [
         1,
@@ -22155,7 +21879,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "17:35"
+        "time": "17:40"
       },
       "arrival": {
         "airport": "新潟",
@@ -22178,7 +21902,7 @@
       "departure": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "21:10"
+        "time": "21:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -22206,7 +21930,7 @@
       "arrival": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "21:55"
+        "time": "22:00"
       },
       "operatingDays": [
         1,
@@ -22224,12 +21948,12 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "10:45"
+        "time": "11:10"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "11:35"
+        "time": "12:00"
       },
       "operatingDays": [
         1,
@@ -22247,12 +21971,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "09:30"
+        "time": "09:50"
       },
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "10:15"
+        "time": "10:35"
       },
       "operatingDays": [
         1,
@@ -22339,7 +22063,7 @@
       "departure": {
         "airport": "岡山",
         "airportCode": "OKJ",
-        "time": "07:05"
+        "time": "07:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -22367,7 +22091,7 @@
       "arrival": {
         "airport": "但馬",
         "airportCode": "TJH",
-        "time": "09:40"
+        "time": "09:35"
       },
       "operatingDays": [
         1,
@@ -22385,7 +22109,7 @@
       "departure": {
         "airport": "但馬",
         "airportCode": "TJH",
-        "time": "10:10"
+        "time": "10:05"
       },
       "arrival": {
         "airport": "伊丹",
@@ -22482,7 +22206,7 @@
       "arrival": {
         "airport": "隠岐",
         "airportCode": "OKI",
-        "time": "14:35"
+        "time": "14:30"
       },
       "operatingDays": [
         1,
@@ -22523,7 +22247,7 @@
       "departure": {
         "airport": "岡山",
         "airportCode": "OKJ",
-        "time": "10:15"
+        "time": "10:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -22551,7 +22275,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "09:15"
+        "time": "09:20"
       },
       "operatingDays": [
         1,
@@ -22592,12 +22316,12 @@
       "departure": {
         "airport": "出雲",
         "airportCode": "IZO",
-        "time": "11:40"
+        "time": "11:50"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "12:25"
+        "time": "12:35"
       },
       "operatingDays": [
         1,
@@ -22615,12 +22339,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "10:20"
+        "time": "10:30"
       },
       "arrival": {
         "airport": "出雲",
         "airportCode": "IZO",
-        "time": "11:10"
+        "time": "11:20"
       },
       "operatingDays": [
         1,
@@ -22730,7 +22454,7 @@
       "departure": {
         "airport": "岡山",
         "airportCode": "OKJ",
-        "time": "12:20"
+        "time": "12:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -22873,7 +22597,7 @@
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "18:35"
+        "time": "18:40"
       },
       "operatingDays": [
         1,
@@ -22896,7 +22620,7 @@
       "arrival": {
         "airport": "岡山",
         "airportCode": "OKJ",
-        "time": "15:45"
+        "time": "15:50"
       },
       "operatingDays": [
         1,
@@ -22919,7 +22643,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "08:15"
+        "time": "08:20"
       },
       "operatingDays": [
         1,
@@ -22965,7 +22689,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "12:30"
+        "time": "12:35"
       },
       "operatingDays": [
         1,
@@ -22983,12 +22707,12 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "13:00"
+        "time": "13:05"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "14:10"
+        "time": "14:15"
       },
       "operatingDays": [
         1,
@@ -23006,12 +22730,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "13:00"
+        "time": "13:05"
       },
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "14:15"
+        "time": "14:20"
       },
       "operatingDays": [
         1,
@@ -23029,12 +22753,12 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "14:45"
+        "time": "14:50"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "15:55"
+        "time": "16:00"
       },
       "operatingDays": [
         1,
@@ -23149,7 +22873,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "11:25"
+        "time": "11:30"
       },
       "operatingDays": [
         1,
@@ -23190,12 +22914,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "13:50"
+        "time": "13:55"
       },
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "14:55"
+        "time": "15:05"
       },
       "operatingDays": [
         1,
@@ -23213,12 +22937,12 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "15:30"
+        "time": "15:35"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "16:35"
+        "time": "16:40"
       },
       "operatingDays": [
         1,
@@ -23241,7 +22965,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "18:30"
+        "time": "18:35"
       },
       "operatingDays": [
         1,
@@ -23282,7 +23006,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "19:00"
+        "time": "19:05"
       },
       "arrival": {
         "airport": "伊丹",
@@ -23305,7 +23029,7 @@
       "departure": {
         "airport": "岡山",
         "airportCode": "OKJ",
-        "time": "17:30"
+        "time": "17:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -23356,7 +23080,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "08:15"
+        "time": "08:20"
       },
       "operatingDays": [
         1,
@@ -23374,12 +23098,12 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "08:50"
+        "time": "08:55"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "10:00"
+        "time": "10:05"
       },
       "operatingDays": [
         1,
@@ -23402,7 +23126,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "10:30"
+        "time": "10:35"
       },
       "operatingDays": [
         1,
@@ -23420,12 +23144,12 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "11:00"
+        "time": "11:05"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "12:10"
+        "time": "12:15"
       },
       "operatingDays": [
         1,
@@ -23489,12 +23213,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "15:15"
+        "time": "15:10"
       },
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "16:20"
+        "time": "16:25"
       },
       "operatingDays": [
         1,
@@ -23517,7 +23241,7 @@
       "arrival": {
         "airport": "岡山",
         "airportCode": "OKJ",
-        "time": "20:55"
+        "time": "21:00"
       },
       "operatingDays": [
         1,
@@ -23540,7 +23264,7 @@
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "15:55"
+        "time": "15:50"
       },
       "operatingDays": [
         1,
@@ -23655,7 +23379,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "21:15"
+        "time": "21:20"
       },
       "operatingDays": [
         1,
@@ -23673,7 +23397,7 @@
       "departure": {
         "airport": "岡山",
         "airportCode": "OKJ",
-        "time": "19:25"
+        "time": "19:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -23724,7 +23448,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "08:15"
+        "time": "08:20"
       },
       "operatingDays": [
         1,
@@ -23742,12 +23466,12 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "08:45"
+        "time": "08:50"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "09:50"
+        "time": "09:55"
       },
       "operatingDays": [
         1,
@@ -23765,12 +23489,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "10:35"
+        "time": "10:40"
       },
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "11:35"
+        "time": "11:45"
       },
       "operatingDays": [
         1,
@@ -23788,12 +23512,12 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "12:10"
+        "time": "12:15"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "13:15"
+        "time": "13:20"
       },
       "operatingDays": [
         1,
@@ -23811,12 +23535,12 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "16:30"
+        "time": "16:35"
       },
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "17:35"
+        "time": "17:40"
       },
       "operatingDays": [
         1,
@@ -23834,12 +23558,12 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "18:05"
+        "time": "18:10"
       },
       "arrival": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "19:20"
+        "time": "19:25"
       },
       "operatingDays": [
         1,
@@ -23995,7 +23719,7 @@
       "departure": {
         "airport": "伊丹",
         "airportCode": "ITM",
-        "time": "09:35"
+        "time": "09:30"
       },
       "arrival": {
         "airport": "奄美大島",
@@ -24046,7 +23770,7 @@
       "arrival": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "14:05"
+        "time": "14:10"
       },
       "operatingDays": [
         1,
@@ -24110,7 +23834,7 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "07:35"
+        "time": "07:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -24138,7 +23862,7 @@
       "arrival": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "08:40"
+        "time": "08:45"
       },
       "operatingDays": [
         1,
@@ -24161,7 +23885,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "10:50"
+        "time": "10:45"
       },
       "operatingDays": [
         1,
@@ -24179,12 +23903,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "08:50"
+        "time": "08:35"
       },
       "arrival": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "10:10"
+        "time": "10:00"
       },
       "operatingDays": [
         1,
@@ -24202,12 +23926,12 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "12:10"
+        "time": "12:25"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "13:35"
+        "time": "13:40"
       },
       "operatingDays": [
         1,
@@ -24230,7 +23954,7 @@
       "arrival": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "11:30"
+        "time": "11:35"
       },
       "operatingDays": [
         1,
@@ -24248,7 +23972,7 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "13:45"
+        "time": "13:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -24271,12 +23995,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "11:40"
+        "time": "11:45"
       },
       "arrival": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "13:05"
+        "time": "13:10"
       },
       "operatingDays": [
         1,
@@ -24294,7 +24018,7 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "16:25"
+        "time": "16:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -24322,7 +24046,7 @@
       "arrival": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "15:40"
+        "time": "15:35"
       },
       "operatingDays": [
         1,
@@ -24340,7 +24064,7 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "18:10"
+        "time": "18:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -24386,7 +24110,7 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "20:35"
+        "time": "20:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -24552,7 +24276,7 @@
       "arrival": {
         "airport": "女満別",
         "airportCode": "MMB",
-        "time": "16:50"
+        "time": "16:55"
       },
       "operatingDays": [
         1,
@@ -24818,98 +24542,6 @@
       ]
     },
     {
-      "flightNumber": "JAL2743",
-      "airline": "JAL",
-      "departure": {
-        "airport": "丘珠",
-        "airportCode": "OKD",
-        "time": "08:20"
-      },
-      "arrival": {
-        "airport": "函館",
-        "airportCode": "HKD",
-        "time": "09:00"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "JAL2744",
-      "airline": "JAL",
-      "departure": {
-        "airport": "函館",
-        "airportCode": "HKD",
-        "time": "09:30"
-      },
-      "arrival": {
-        "airport": "丘珠",
-        "airportCode": "OKD",
-        "time": "10:10"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "JAL2745",
-      "airline": "JAL",
-      "departure": {
-        "airport": "丘珠",
-        "airportCode": "OKD",
-        "time": "10:35"
-      },
-      "arrival": {
-        "airport": "函館",
-        "airportCode": "HKD",
-        "time": "11:15"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "JAL2748",
-      "airline": "JAL",
-      "departure": {
-        "airport": "函館",
-        "airportCode": "HKD",
-        "time": "13:45"
-      },
-      "arrival": {
-        "airport": "丘珠",
-        "airportCode": "OKD",
-        "time": "14:25"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
       "flightNumber": "JAL2749",
       "airline": "JAL",
       "departure": {
@@ -25076,7 +24708,7 @@
       "departure": {
         "airport": "出雲",
         "airportCode": "IZO",
-        "time": "07:35"
+        "time": "07:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -25128,52 +24760,6 @@
         "airport": "丘珠",
         "airportCode": "OKD",
         "time": "10:05"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "JAL2763",
-      "airline": "JAL",
-      "departure": {
-        "airport": "丘珠",
-        "airportCode": "OKD",
-        "time": "11:40"
-      },
-      "arrival": {
-        "airport": "釧路",
-        "airportCode": "KUH",
-        "time": "12:25"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "JAL2764",
-      "airline": "JAL",
-      "departure": {
-        "airport": "釧路",
-        "airportCode": "KUH",
-        "time": "12:55"
-      },
-      "arrival": {
-        "airport": "丘珠",
-        "airportCode": "OKD",
-        "time": "13:45"
       },
       "operatingDays": [
         1,
@@ -25306,12 +24892,58 @@
       "departure": {
         "airport": "出雲",
         "airportCode": "IZO",
-        "time": "09:15"
+        "time": "09:20"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
         "time": "10:35"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JAL2783",
+      "airline": "JAL",
+      "departure": {
+        "airport": "丘珠",
+        "airportCode": "OKD",
+        "time": "07:50"
+      },
+      "arrival": {
+        "airport": "利尻",
+        "airportCode": "RIS",
+        "time": "08:45"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JAL2784",
+      "airline": "JAL",
+      "departure": {
+        "airport": "利尻",
+        "airportCode": "RIS",
+        "time": "09:15"
+      },
+      "arrival": {
+        "airport": "丘珠",
+        "airportCode": "OKD",
+        "time": "10:05"
       },
       "operatingDays": [
         1,
@@ -25393,12 +25025,12 @@
       ]
     },
     {
-      "flightNumber": "JAL2791",
+      "flightNumber": "JAL2795",
       "airline": "JAL",
       "departure": {
-        "airport": "函館",
-        "airportCode": "HKD",
-        "time": "11:45"
+        "airport": "丘珠",
+        "airportCode": "OKD",
+        "time": "11:25"
       },
       "arrival": {
         "airport": "奥尻",
@@ -25416,7 +25048,7 @@
       ]
     },
     {
-      "flightNumber": "JAL2792",
+      "flightNumber": "JAL2796",
       "airline": "JAL",
       "departure": {
         "airport": "奥尻",
@@ -25424,9 +25056,9 @@
         "time": "12:45"
       },
       "arrival": {
-        "airport": "函館",
-        "airportCode": "HKD",
-        "time": "13:15"
+        "airport": "丘珠",
+        "airportCode": "OKD",
+        "time": "13:35"
       },
       "operatingDays": [
         1,
@@ -25449,7 +25081,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "13:20"
+        "time": "13:15"
       },
       "operatingDays": [
         1,
@@ -25495,7 +25127,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "11:45"
+        "time": "11:50"
       },
       "operatingDays": [
         1,
@@ -25564,7 +25196,7 @@
       "arrival": {
         "airport": "青森",
         "airportCode": "AOJ",
-        "time": "19:30"
+        "time": "19:35"
       },
       "operatingDays": [
         1,
@@ -25588,6 +25220,52 @@
         "airport": "新千歳",
         "airportCode": "CTS",
         "time": "21:00"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JAL2815",
+      "airline": "JAL",
+      "departure": {
+        "airport": "丘珠",
+        "airportCode": "OKD",
+        "time": "11:40"
+      },
+      "arrival": {
+        "airport": "三沢",
+        "airportCode": "MSJ",
+        "time": "12:40"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JAL2816",
+      "airline": "JAL",
+      "departure": {
+        "airport": "三沢",
+        "airportCode": "MSJ",
+        "time": "13:10"
+      },
+      "arrival": {
+        "airport": "丘珠",
+        "airportCode": "OKD",
+        "time": "14:05"
       },
       "operatingDays": [
         1,
@@ -25702,7 +25380,7 @@
       "arrival": {
         "airport": "出雲",
         "airportCode": "IZO",
-        "time": "16:15"
+        "time": "16:20"
       },
       "operatingDays": [
         1,
@@ -25812,12 +25490,12 @@
       "departure": {
         "airport": "出雲",
         "airportCode": "IZO",
-        "time": "17:15"
+        "time": "17:20"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "18:50"
+        "time": "18:45"
       },
       "operatingDays": [
         1,
@@ -25863,7 +25541,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "20:35"
+        "time": "20:30"
       },
       "operatingDays": [
         1,
@@ -25886,7 +25564,7 @@
       "arrival": {
         "airport": "出雲",
         "airportCode": "IZO",
-        "time": "19:45"
+        "time": "19:40"
       },
       "operatingDays": [
         1,
@@ -25909,7 +25587,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "09:20"
+        "time": "09:15"
       },
       "operatingDays": [
         1,
@@ -25973,12 +25651,12 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "11:00"
+        "time": "10:55"
       },
       "arrival": {
         "airport": "仙台",
         "airportCode": "SDJ",
-        "time": "12:10"
+        "time": "12:05"
       },
       "operatingDays": [
         1,
@@ -26019,7 +25697,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "14:35"
+        "time": "14:30"
       },
       "arrival": {
         "airport": "仙台",
@@ -26070,7 +25748,7 @@
       "arrival": {
         "airport": "仙台",
         "airportCode": "SDJ",
-        "time": "20:00"
+        "time": "20:05"
       },
       "operatingDays": [
         1,
@@ -26111,7 +25789,7 @@
       "departure": {
         "airport": "仙台",
         "airportCode": "SDJ",
-        "time": "20:30"
+        "time": "20:35"
       },
       "arrival": {
         "airport": "新千歳",
@@ -26139,7 +25817,7 @@
       "arrival": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "09:40"
+        "time": "09:45"
       },
       "operatingDays": [
         1,
@@ -26180,7 +25858,7 @@
       "departure": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "10:20"
+        "time": "10:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -26208,7 +25886,7 @@
       "arrival": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "14:20"
+        "time": "14:25"
       },
       "operatingDays": [
         1,
@@ -26226,7 +25904,7 @@
       "departure": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "15:00"
+        "time": "15:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -26254,7 +25932,7 @@
       "arrival": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "18:20"
+        "time": "18:25"
       },
       "operatingDays": [
         1,
@@ -26272,7 +25950,7 @@
       "departure": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "19:00"
+        "time": "19:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -26300,7 +25978,7 @@
       "arrival": {
         "airport": "山口宇部",
         "airportCode": "UBJ",
-        "time": "20:35"
+        "time": "20:40"
       },
       "operatingDays": [
         1,
@@ -26323,7 +26001,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "08:45"
+        "time": "08:40"
       },
       "operatingDays": [
         1,
@@ -26387,7 +26065,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "07:20"
+        "time": "07:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -26415,7 +26093,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "08:10"
+        "time": "08:15"
       },
       "operatingDays": [
         1,
@@ -26433,7 +26111,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "08:05"
+        "time": "08:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -26461,7 +26139,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "08:50"
+        "time": "08:55"
       },
       "operatingDays": [
         1,
@@ -26479,7 +26157,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "09:10"
+        "time": "09:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -26507,7 +26185,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "09:45"
+        "time": "09:55"
       },
       "operatingDays": [
         1,
@@ -26525,7 +26203,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "10:00"
+        "time": "10:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -26594,12 +26272,12 @@
       "departure": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "14:35"
+        "time": "14:40"
       },
       "arrival": {
         "airport": "成田",
         "airportCode": "NRT",
-        "time": "15:50"
+        "time": "15:55"
       },
       "operatingDays": [
         1,
@@ -26622,7 +26300,7 @@
       "arrival": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "20:10"
+        "time": "20:05"
       },
       "operatingDays": [
         1,
@@ -26645,7 +26323,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "10:55"
+        "time": "11:00"
       },
       "operatingDays": [
         1,
@@ -26663,7 +26341,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "11:00"
+        "time": "11:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -26691,7 +26369,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "09:50"
+        "time": "09:45"
       },
       "operatingDays": [
         1,
@@ -26709,7 +26387,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "10:10"
+        "time": "10:05"
       },
       "arrival": {
         "airport": "中部",
@@ -26760,7 +26438,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "11:05"
+        "time": "11:10"
       },
       "operatingDays": [
         1,
@@ -26783,7 +26461,7 @@
       "arrival": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "16:50"
+        "time": "16:55"
       },
       "operatingDays": [
         1,
@@ -26801,12 +26479,12 @@
       "departure": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "17:30"
+        "time": "17:35"
       },
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "19:10"
+        "time": "19:15"
       },
       "operatingDays": [
         1,
@@ -26829,7 +26507,7 @@
       "arrival": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "21:40"
+        "time": "21:45"
       },
       "operatingDays": [
         1,
@@ -26852,7 +26530,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "13:40"
+        "time": "13:35"
       },
       "operatingDays": [
         1,
@@ -26875,7 +26553,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "11:45"
+        "time": "11:55"
       },
       "operatingDays": [
         1,
@@ -26893,7 +26571,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "12:50"
+        "time": "12:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -26921,7 +26599,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "12:50"
+        "time": "12:55"
       },
       "operatingDays": [
         1,
@@ -26939,12 +26617,12 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "14:00"
+        "time": "14:05"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "15:50"
+        "time": "15:45"
       },
       "operatingDays": [
         1,
@@ -26967,7 +26645,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "13:45"
+        "time": "13:50"
       },
       "operatingDays": [
         1,
@@ -26985,7 +26663,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "14:30"
+        "time": "14:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -27013,7 +26691,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "14:40"
+        "time": "14:45"
       },
       "operatingDays": [
         1,
@@ -27031,7 +26709,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "16:00"
+        "time": "16:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -27059,7 +26737,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "15:30"
+        "time": "15:35"
       },
       "operatingDays": [
         1,
@@ -27077,7 +26755,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "16:30"
+        "time": "16:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -27123,7 +26801,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "17:05"
+        "time": "17:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -27169,7 +26847,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "18:15"
+        "time": "18:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -27215,7 +26893,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "19:10"
+        "time": "19:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -27243,7 +26921,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "19:50"
+        "time": "19:45"
       },
       "operatingDays": [
         1,
@@ -27261,7 +26939,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "20:00"
+        "time": "20:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -27312,7 +26990,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "22:45"
+        "time": "22:40"
       },
       "operatingDays": [
         1,
@@ -27335,7 +27013,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "21:05"
+        "time": "21:10"
       },
       "operatingDays": [
         1,
@@ -27353,7 +27031,7 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "19:35"
+        "time": "19:30"
       },
       "arrival": {
         "airport": "福岡",
@@ -27376,12 +27054,12 @@
       "departure": {
         "airport": "広島",
         "airportCode": "HIJ",
-        "time": "10:50"
+        "time": "10:45"
       },
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "12:45"
+        "time": "12:40"
       },
       "operatingDays": [
         1,
@@ -27468,7 +27146,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "10:30"
+        "time": "10:20"
       },
       "arrival": {
         "airport": "福岡",
@@ -27491,7 +27169,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "13:30"
+        "time": "13:20"
       },
       "arrival": {
         "airport": "福岡",
@@ -27514,7 +27192,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "11:50"
+        "time": "11:55"
       },
       "arrival": {
         "airport": "新千歳",
@@ -27721,7 +27399,7 @@
       "departure": {
         "airport": "徳島",
         "airportCode": "TKS",
-        "time": "20:05"
+        "time": "20:00"
       },
       "arrival": {
         "airport": "福岡",
@@ -27841,7 +27519,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "07:55"
+        "time": "07:50"
       },
       "operatingDays": [
         1,
@@ -27859,12 +27537,12 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "08:25"
+        "time": "08:20"
       },
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "09:15"
+        "time": "09:10"
       },
       "operatingDays": [
         1,
@@ -27905,7 +27583,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "13:30"
+        "time": "13:25"
       },
       "arrival": {
         "airport": "福岡",
@@ -28020,7 +27698,7 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "07:15"
+        "time": "07:20"
       },
       "arrival": {
         "airport": "宮崎",
@@ -28071,7 +27749,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "10:35"
+        "time": "10:30"
       },
       "operatingDays": [
         1,
@@ -28089,7 +27767,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "11:05"
+        "time": "11:00"
       },
       "arrival": {
         "airport": "福岡",
@@ -28112,12 +27790,12 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "11:40"
+        "time": "11:50"
       },
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "12:30"
+        "time": "12:35"
       },
       "operatingDays": [
         1,
@@ -28135,7 +27813,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "13:00"
+        "time": "13:05"
       },
       "arrival": {
         "airport": "福岡",
@@ -28186,7 +27864,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "14:55"
+        "time": "14:50"
       },
       "operatingDays": [
         1,
@@ -28209,7 +27887,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "15:20"
+        "time": "15:15"
       },
       "operatingDays": [
         1,
@@ -28227,12 +27905,12 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "15:50"
+        "time": "15:45"
       },
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "16:40"
+        "time": "16:35"
       },
       "operatingDays": [
         1,
@@ -28462,7 +28140,7 @@
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "19:40"
+        "time": "19:35"
       },
       "operatingDays": [
         1,
@@ -28715,7 +28393,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "14:15"
+        "time": "14:10"
       },
       "operatingDays": [
         1,
@@ -28761,7 +28439,7 @@
       "arrival": {
         "airport": "北九州",
         "airportCode": "KKJ",
-        "time": "09:50"
+        "time": "09:55"
       },
       "operatingDays": [
         1,
@@ -28917,7 +28595,7 @@
       "departure": {
         "airport": "北九州",
         "airportCode": "KKJ",
-        "time": "10:35"
+        "time": "10:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -28940,12 +28618,12 @@
       "departure": {
         "airport": "屋久島",
         "airportCode": "KUM",
-        "time": "09:55"
+        "time": "10:00"
       },
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "10:30"
+        "time": "10:35"
       },
       "operatingDays": [
         1,
@@ -28963,12 +28641,12 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "08:40"
+        "time": "08:45"
       },
       "arrival": {
         "airport": "屋久島",
         "airportCode": "KUM",
-        "time": "09:20"
+        "time": "09:25"
       },
       "operatingDays": [
         1,
@@ -29083,7 +28761,7 @@
       "arrival": {
         "airport": "北九州",
         "airportCode": "KKJ",
-        "time": "15:15"
+        "time": "15:20"
       },
       "operatingDays": [
         1,
@@ -29193,12 +28871,12 @@
       "departure": {
         "airport": "北九州",
         "airportCode": "KKJ",
-        "time": "15:55"
+        "time": "16:05"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "17:40"
+        "time": "17:35"
       },
       "operatingDays": [
         1,
@@ -29313,7 +28991,7 @@
       "arrival": {
         "airport": "北九州",
         "airportCode": "KKJ",
-        "time": "20:00"
+        "time": "20:05"
       },
       "operatingDays": [
         1,
@@ -29377,7 +29055,7 @@
       "departure": {
         "airport": "北九州",
         "airportCode": "KKJ",
-        "time": "20:45"
+        "time": "20:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -29676,12 +29354,12 @@
       "departure": {
         "airport": "沖永良部",
         "airportCode": "OKE",
-        "time": "09:15"
+        "time": "09:20"
       },
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "10:35"
+        "time": "10:40"
       },
       "operatingDays": [
         1,
@@ -29699,12 +29377,12 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "07:20"
+        "time": "07:25"
       },
       "arrival": {
         "airport": "沖永良部",
         "airportCode": "OKE",
-        "time": "08:45"
+        "time": "08:50"
       },
       "operatingDays": [
         1,
@@ -29911,7 +29589,7 @@
       "arrival": {
         "airport": "徳之島",
         "airportCode": "TKN",
-        "time": "11:25"
+        "time": "11:30"
       },
       "operatingDays": [
         1,
@@ -30154,52 +29832,6 @@
       ]
     },
     {
-      "flightNumber": "JAL3890",
-      "airline": "JAL",
-      "departure": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "07:40"
-      },
-      "arrival": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "08:20"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "JAL3891",
-      "airline": "JAL",
-      "departure": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "08:50"
-      },
-      "arrival": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "09:25"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
       "flightNumber": "JAL3894",
       "airline": "JAL",
       "departure": {
@@ -30234,52 +29866,6 @@
         "airport": "天草",
         "airportCode": "AXJ",
         "time": "17:30"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "JAL3898",
-      "airline": "JAL",
-      "departure": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "18:00"
-      },
-      "arrival": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "18:40"
-      },
-      "operatingDays": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
-    },
-    {
-      "flightNumber": "JAL3899",
-      "airline": "JAL",
-      "departure": {
-        "airport": "福岡",
-        "airportCode": "FUK",
-        "time": "19:10"
-      },
-      "arrival": {
-        "airport": "天草",
-        "airportCode": "AXJ",
-        "time": "19:45"
       },
       "operatingDays": [
         1,
@@ -30591,6 +30177,52 @@
       ]
     },
     {
+      "flightNumber": "JAL4076",
+      "airline": "JAL",
+      "departure": {
+        "airport": "五島福江",
+        "airportCode": "FUJ",
+        "time": "15:45"
+      },
+      "arrival": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "16:15"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JAL4077",
+      "airline": "JAL",
+      "departure": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "14:45"
+      },
+      "arrival": {
+        "airport": "五島福江",
+        "airportCode": "FUJ",
+        "time": "15:15"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
       "flightNumber": "JAL4078",
       "airline": "JAL",
       "departure": {
@@ -30849,7 +30481,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "07:10"
+        "time": "07:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -31079,7 +30711,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "09:10"
+        "time": "09:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -31153,7 +30785,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "10:40"
+        "time": "10:45"
       },
       "operatingDays": [
         1,
@@ -31217,7 +30849,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "11:25"
+        "time": "11:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -31337,7 +30969,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "13:35"
+        "time": "13:40"
       },
       "operatingDays": [
         1,
@@ -31401,7 +31033,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "14:20"
+        "time": "14:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -31475,7 +31107,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "16:55"
+        "time": "17:00"
       },
       "operatingDays": [
         1,
@@ -31585,7 +31217,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "17:35"
+        "time": "17:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -31682,7 +31314,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "18:20"
+        "time": "18:25"
       },
       "operatingDays": [
         1,
@@ -31769,7 +31401,7 @@
       "departure": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "19:00"
+        "time": "19:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -32165,7 +31797,7 @@
       "arrival": {
         "airport": "松山",
         "airportCode": "MYJ",
-        "time": "21:10"
+        "time": "21:15"
       },
       "operatingDays": [
         1,
@@ -33108,7 +32740,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "10:15"
+        "time": "10:10"
       },
       "operatingDays": [
         1,
@@ -33131,7 +32763,7 @@
       "arrival": {
         "airport": "徳島",
         "airportCode": "TKS",
-        "time": "11:40"
+        "time": "11:45"
       },
       "operatingDays": [
         1,
@@ -33149,7 +32781,7 @@
       "departure": {
         "airport": "徳島",
         "airportCode": "TKS",
-        "time": "12:20"
+        "time": "12:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -33195,7 +32827,7 @@
       "departure": {
         "airport": "徳島",
         "airportCode": "TKS",
-        "time": "14:45"
+        "time": "14:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -33241,7 +32873,7 @@
       "departure": {
         "airport": "徳島",
         "airportCode": "TKS",
-        "time": "17:40"
+        "time": "17:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -33287,7 +32919,7 @@
       "departure": {
         "airport": "徳島",
         "airportCode": "TKS",
-        "time": "20:35"
+        "time": "20:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -33315,7 +32947,7 @@
       "arrival": {
         "airport": "徳島",
         "airportCode": "TKS",
-        "time": "20:55"
+        "time": "21:00"
       },
       "operatingDays": [
         1,
@@ -33333,7 +32965,7 @@
       "departure": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "07:05"
+        "time": "07:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -33361,7 +32993,7 @@
       "arrival": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "09:05"
+        "time": "09:10"
       },
       "operatingDays": [
         1,
@@ -33402,12 +33034,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "09:50"
+        "time": "09:45"
       },
       "arrival": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "11:05"
+        "time": "11:10"
       },
       "operatingDays": [
         1,
@@ -33425,7 +33057,7 @@
       "departure": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "11:45"
+        "time": "11:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -33471,12 +33103,12 @@
       "departure": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "13:10"
+        "time": "13:25"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "14:30"
+        "time": "14:40"
       },
       "operatingDays": [
         1,
@@ -33499,7 +33131,7 @@
       "arrival": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "14:15"
+        "time": "14:20"
       },
       "operatingDays": [
         1,
@@ -33517,7 +33149,7 @@
       "departure": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "15:15"
+        "time": "15:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -33563,7 +33195,7 @@
       "departure": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "17:20"
+        "time": "17:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -33591,7 +33223,7 @@
       "arrival": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "19:55"
+        "time": "20:00"
       },
       "operatingDays": [
         1,
@@ -33637,7 +33269,7 @@
       "arrival": {
         "airport": "高松",
         "airportCode": "TAK",
-        "time": "21:30"
+        "time": "21:35"
       },
       "operatingDays": [
         1,
@@ -33683,7 +33315,7 @@
       "arrival": {
         "airport": "高知",
         "airportCode": "KCZ",
-        "time": "08:50"
+        "time": "08:55"
       },
       "operatingDays": [
         1,
@@ -33701,7 +33333,7 @@
       "departure": {
         "airport": "高知",
         "airportCode": "KCZ",
-        "time": "09:35"
+        "time": "09:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -33729,7 +33361,7 @@
       "arrival": {
         "airport": "高知",
         "airportCode": "KCZ",
-        "time": "10:35"
+        "time": "10:40"
       },
       "operatingDays": [
         1,
@@ -33747,7 +33379,7 @@
       "departure": {
         "airport": "高知",
         "airportCode": "KCZ",
-        "time": "11:15"
+        "time": "11:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -33793,7 +33425,7 @@
       "departure": {
         "airport": "高知",
         "airportCode": "KCZ",
-        "time": "16:15"
+        "time": "16:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -33821,7 +33453,7 @@
       "arrival": {
         "airport": "高知",
         "airportCode": "KCZ",
-        "time": "18:15"
+        "time": "18:20"
       },
       "operatingDays": [
         1,
@@ -33839,7 +33471,7 @@
       "departure": {
         "airport": "高知",
         "airportCode": "KCZ",
-        "time": "19:00"
+        "time": "19:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -33867,7 +33499,7 @@
       "arrival": {
         "airport": "高知",
         "airportCode": "KCZ",
-        "time": "20:15"
+        "time": "20:20"
       },
       "operatingDays": [
         1,
@@ -33936,7 +33568,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "10:25"
+        "time": "10:30"
       },
       "operatingDays": [
         1,
@@ -34005,7 +33637,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "09:55"
+        "time": "09:50"
       },
       "operatingDays": [
         1,
@@ -34023,7 +33655,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "10:50"
+        "time": "10:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -34092,12 +33724,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "09:45"
+        "time": "09:50"
       },
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "11:20"
+        "time": "11:25"
       },
       "operatingDays": [
         1,
@@ -34115,7 +33747,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "12:45"
+        "time": "12:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -34189,7 +33821,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "13:05"
+        "time": "13:00"
       },
       "operatingDays": [
         1,
@@ -34253,7 +33885,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "16:05"
+        "time": "16:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -34327,7 +33959,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "16:00"
+        "time": "15:55"
       },
       "operatingDays": [
         1,
@@ -34345,7 +33977,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "17:15"
+        "time": "17:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -34373,7 +34005,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "17:00"
+        "time": "16:55"
       },
       "operatingDays": [
         1,
@@ -34391,7 +34023,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "18:00"
+        "time": "18:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -34419,7 +34051,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "18:20"
+        "time": "18:15"
       },
       "operatingDays": [
         1,
@@ -34460,12 +34092,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "17:35"
+        "time": "17:30"
       },
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "19:15"
+        "time": "19:05"
       },
       "operatingDays": [
         1,
@@ -34511,7 +34143,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "20:15"
+        "time": "20:10"
       },
       "operatingDays": [
         1,
@@ -34557,7 +34189,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "21:30"
+        "time": "21:25"
       },
       "operatingDays": [
         1,
@@ -34603,7 +34235,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "22:20"
+        "time": "22:15"
       },
       "operatingDays": [
         1,
@@ -34626,7 +34258,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "11:45"
+        "time": "11:50"
       },
       "operatingDays": [
         1,
@@ -34667,7 +34299,7 @@
       "departure": {
         "airport": "釧路",
         "airportCode": "KUH",
-        "time": "14:50"
+        "time": "14:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -34718,7 +34350,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "21:35"
+        "time": "21:40"
       },
       "operatingDays": [
         1,
@@ -34741,7 +34373,7 @@
       "arrival": {
         "airport": "釧路",
         "airportCode": "KUH",
-        "time": "19:05"
+        "time": "19:00"
       },
       "operatingDays": [
         1,
@@ -34759,12 +34391,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "07:35"
+        "time": "07:30"
       },
       "arrival": {
         "airport": "旭川",
         "airportCode": "AKJ",
-        "time": "09:10"
+        "time": "09:05"
       },
       "operatingDays": [
         1,
@@ -34782,7 +34414,7 @@
       "departure": {
         "airport": "旭川",
         "airportCode": "AKJ",
-        "time": "09:50"
+        "time": "09:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -34828,7 +34460,7 @@
       "departure": {
         "airport": "旭川",
         "airportCode": "AKJ",
-        "time": "13:40"
+        "time": "13:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -34851,12 +34483,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "14:05"
+        "time": "14:00"
       },
       "arrival": {
         "airport": "旭川",
         "airportCode": "AKJ",
-        "time": "15:40"
+        "time": "15:35"
       },
       "operatingDays": [
         1,
@@ -34925,7 +34557,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "21:40"
+        "time": "21:45"
       },
       "operatingDays": [
         1,
@@ -34966,7 +34598,7 @@
       "departure": {
         "airport": "女満別",
         "airportCode": "MMB",
-        "time": "15:00"
+        "time": "14:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -35012,12 +34644,12 @@
       "departure": {
         "airport": "女満別",
         "airportCode": "MMB",
-        "time": "19:50"
+        "time": "19:40"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "21:45"
+        "time": "21:35"
       },
       "operatingDays": [
         1,
@@ -35063,7 +34695,7 @@
       "arrival": {
         "airport": "女満別",
         "airportCode": "MMB",
-        "time": "19:10"
+        "time": "19:00"
       },
       "operatingDays": [
         1,
@@ -35150,7 +34782,7 @@
       "departure": {
         "airport": "帯広",
         "airportCode": "OBO",
-        "time": "16:15"
+        "time": "16:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -35196,7 +34828,7 @@
       "departure": {
         "airport": "帯広",
         "airportCode": "OBO",
-        "time": "20:00"
+        "time": "19:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -35247,7 +34879,7 @@
       "arrival": {
         "airport": "帯広",
         "airportCode": "OBO",
-        "time": "19:20"
+        "time": "19:10"
       },
       "operatingDays": [
         1,
@@ -35265,7 +34897,7 @@
       "departure": {
         "airport": "函館",
         "airportCode": "HKD",
-        "time": "09:40"
+        "time": "09:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -35293,7 +34925,7 @@
       "arrival": {
         "airport": "函館",
         "airportCode": "HKD",
-        "time": "08:50"
+        "time": "08:45"
       },
       "operatingDays": [
         1,
@@ -35311,7 +34943,7 @@
       "departure": {
         "airport": "函館",
         "airportCode": "HKD",
-        "time": "15:00"
+        "time": "14:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -35403,7 +35035,7 @@
       "departure": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "07:35"
+        "time": "07:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -35431,7 +35063,7 @@
       "arrival": {
         "airport": "新千歳",
         "airportCode": "CTS",
-        "time": "22:05"
+        "time": "22:00"
       },
       "operatingDays": [
         1,
@@ -35449,12 +35081,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "07:30"
+        "time": "07:35"
       },
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "09:15"
+        "time": "09:25"
       },
       "operatingDays": [
         1,
@@ -35500,7 +35132,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "11:55"
+        "time": "12:00"
       },
       "operatingDays": [
         1,
@@ -35518,7 +35150,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "10:00"
+        "time": "10:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -35546,7 +35178,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "14:20"
+        "time": "14:25"
       },
       "operatingDays": [
         1,
@@ -35564,7 +35196,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "12:35"
+        "time": "12:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -35592,7 +35224,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "15:20"
+        "time": "15:30"
       },
       "operatingDays": [
         1,
@@ -35610,7 +35242,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "15:05"
+        "time": "15:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -35638,7 +35270,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "19:40"
+        "time": "19:45"
       },
       "operatingDays": [
         1,
@@ -35656,7 +35288,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "16:05"
+        "time": "16:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -35684,7 +35316,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "21:20"
+        "time": "21:25"
       },
       "operatingDays": [
         1,
@@ -35702,7 +35334,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "20:25"
+        "time": "20:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -35730,7 +35362,7 @@
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "09:20"
+        "time": "09:15"
       },
       "operatingDays": [
         1,
@@ -35753,7 +35385,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "08:00"
+        "time": "08:05"
       },
       "operatingDays": [
         1,
@@ -35771,7 +35403,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "08:40"
+        "time": "08:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -35817,7 +35449,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "10:20"
+        "time": "10:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -35845,7 +35477,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "11:45"
+        "time": "11:50"
       },
       "operatingDays": [
         1,
@@ -35863,7 +35495,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "12:25"
+        "time": "12:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -35891,7 +35523,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "13:10"
+        "time": "13:15"
       },
       "operatingDays": [
         1,
@@ -35909,7 +35541,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "13:50"
+        "time": "14:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -35955,12 +35587,12 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "15:20"
+        "time": "15:40"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "17:10"
+        "time": "17:20"
       },
       "operatingDays": [
         1,
@@ -35983,7 +35615,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "16:20"
+        "time": "16:25"
       },
       "operatingDays": [
         1,
@@ -36001,7 +35633,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "17:20"
+        "time": "17:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -36029,7 +35661,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "19:20"
+        "time": "19:25"
       },
       "operatingDays": [
         1,
@@ -36047,7 +35679,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "20:05"
+        "time": "20:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -36093,7 +35725,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "07:30"
+        "time": "07:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -36121,7 +35753,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "08:05"
+        "time": "08:10"
       },
       "operatingDays": [
         1,
@@ -36139,7 +35771,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "08:50"
+        "time": "08:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -36185,7 +35817,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "10:55"
+        "time": "11:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -36208,12 +35840,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "10:05"
+        "time": "10:00"
       },
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "11:50"
+        "time": "11:45"
       },
       "operatingDays": [
         1,
@@ -36231,12 +35863,12 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "12:50"
+        "time": "12:55"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "14:35"
+        "time": "14:30"
       },
       "operatingDays": [
         1,
@@ -36259,7 +35891,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "13:45"
+        "time": "13:50"
       },
       "operatingDays": [
         1,
@@ -36277,7 +35909,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "14:35"
+        "time": "14:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -36305,7 +35937,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "15:55"
+        "time": "16:00"
       },
       "operatingDays": [
         1,
@@ -36323,7 +35955,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "16:45"
+        "time": "16:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -36351,7 +35983,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "18:10"
+        "time": "18:15"
       },
       "operatingDays": [
         1,
@@ -36369,7 +36001,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "19:05"
+        "time": "19:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -36397,7 +36029,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "19:40"
+        "time": "19:45"
       },
       "operatingDays": [
         1,
@@ -36415,7 +36047,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "20:35"
+        "time": "20:45"
       },
       "arrival": {
         "airport": "羽田",
@@ -36443,7 +36075,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "21:05"
+        "time": "21:15"
       },
       "operatingDays": [
         1,
@@ -36461,7 +36093,7 @@
       "departure": {
         "airport": "奄美大島",
         "airportCode": "ASJ",
-        "time": "14:20"
+        "time": "14:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -36489,7 +36121,7 @@
       "arrival": {
         "airport": "奄美大島",
         "airportCode": "ASJ",
-        "time": "13:35"
+        "time": "13:40"
       },
       "operatingDays": [
         1,
@@ -36507,12 +36139,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "08:00"
+        "time": "08:05"
       },
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "09:35"
+        "time": "09:40"
       },
       "operatingDays": [
         1,
@@ -36530,7 +36162,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "07:35"
+        "time": "07:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -36553,12 +36185,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "09:35"
+        "time": "09:40"
       },
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "11:10"
+        "time": "11:20"
       },
       "operatingDays": [
         1,
@@ -36576,7 +36208,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "10:25"
+        "time": "10:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -36599,12 +36231,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "12:05"
+        "time": "12:10"
       },
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "13:40"
+        "time": "13:50"
       },
       "operatingDays": [
         1,
@@ -36622,12 +36254,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "15:05"
+        "time": "15:00"
       },
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "16:40"
+        "time": "16:35"
       },
       "operatingDays": [
         1,
@@ -36645,7 +36277,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "11:50"
+        "time": "12:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -36691,12 +36323,12 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "14:25"
+        "time": "14:40"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "16:05"
+        "time": "16:10"
       },
       "operatingDays": [
         1,
@@ -36719,7 +36351,7 @@
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "21:45"
+        "time": "21:50"
       },
       "operatingDays": [
         1,
@@ -36737,7 +36369,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "17:20"
+        "time": "17:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -36760,7 +36392,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "19:05"
+        "time": "19:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -36788,7 +36420,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "09:45"
+        "time": "09:50"
       },
       "operatingDays": [
         1,
@@ -36806,7 +36438,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "07:35"
+        "time": "07:40"
       },
       "arrival": {
         "airport": "羽田",
@@ -36834,7 +36466,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "11:35"
+        "time": "11:40"
       },
       "operatingDays": [
         1,
@@ -36852,7 +36484,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "10:30"
+        "time": "10:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -36898,7 +36530,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "12:10"
+        "time": "12:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -36926,7 +36558,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "16:00"
+        "time": "16:05"
       },
       "operatingDays": [
         1,
@@ -36944,12 +36576,12 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "14:00"
+        "time": "14:15"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "15:45"
+        "time": "15:50"
       },
       "operatingDays": [
         1,
@@ -36972,7 +36604,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "18:00"
+        "time": "18:05"
       },
       "operatingDays": [
         1,
@@ -36990,7 +36622,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "16:50"
+        "time": "17:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -37018,7 +36650,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "20:35"
+        "time": "20:40"
       },
       "operatingDays": [
         1,
@@ -37036,7 +36668,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "18:45"
+        "time": "18:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -37059,7 +36691,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "07:25"
+        "time": "07:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -37087,7 +36719,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "09:00"
+        "time": "09:05"
       },
       "operatingDays": [
         1,
@@ -37105,7 +36737,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "09:55"
+        "time": "10:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -37133,7 +36765,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "09:50"
+        "time": "09:55"
       },
       "operatingDays": [
         1,
@@ -37151,7 +36783,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:50"
+        "time": "11:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -37179,7 +36811,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:40"
+        "time": "10:45"
       },
       "operatingDays": [
         1,
@@ -37197,7 +36829,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "11:40"
+        "time": "11:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -37225,7 +36857,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "11:15"
+        "time": "11:20"
       },
       "operatingDays": [
         1,
@@ -37243,7 +36875,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "12:15"
+        "time": "12:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -37271,7 +36903,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "12:15"
+        "time": "12:20"
       },
       "operatingDays": [
         1,
@@ -37289,7 +36921,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "13:15"
+        "time": "13:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -37312,7 +36944,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:00"
+        "time": "14:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -37335,12 +36967,12 @@
       "departure": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "10:35"
+        "time": "10:45"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "13:10"
+        "time": "13:25"
       },
       "operatingDays": [
         1,
@@ -37358,7 +36990,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "15:40"
+        "time": "15:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -37386,7 +37018,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:30"
+        "time": "14:40"
       },
       "operatingDays": [
         1,
@@ -37404,7 +37036,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "17:45"
+        "time": "17:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -37432,7 +37064,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "16:25"
+        "time": "16:30"
       },
       "operatingDays": [
         1,
@@ -37450,7 +37082,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "18:50"
+        "time": "19:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -37478,7 +37110,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "17:40"
+        "time": "17:45"
       },
       "operatingDays": [
         1,
@@ -37496,7 +37128,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "19:30"
+        "time": "19:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -37524,7 +37156,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "18:25"
+        "time": "18:30"
       },
       "operatingDays": [
         1,
@@ -37542,7 +37174,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "20:30"
+        "time": "20:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -37570,7 +37202,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "19:30"
+        "time": "19:35"
       },
       "operatingDays": [
         1,
@@ -37593,7 +37225,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "22:30"
+        "time": "22:35"
       },
       "operatingDays": [
         1,
@@ -37616,7 +37248,7 @@
       "arrival": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "13:25"
+        "time": "13:35"
       },
       "operatingDays": [
         1,
@@ -37634,12 +37266,12 @@
       "departure": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "14:25"
+        "time": "14:30"
       },
       "arrival": {
         "airport": "羽田",
         "airportCode": "HND",
-        "time": "17:15"
+        "time": "17:10"
       },
       "operatingDays": [
         1,
@@ -37662,7 +37294,7 @@
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "09:55"
+        "time": "10:05"
       },
       "operatingDays": [
         1,
@@ -37680,7 +37312,7 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "11:10"
+        "time": "11:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -37708,7 +37340,7 @@
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "17:40"
+        "time": "17:50"
       },
       "operatingDays": [
         1,
@@ -37726,7 +37358,7 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "19:15"
+        "time": "19:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -37754,7 +37386,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:05"
+        "time": "14:10"
       },
       "operatingDays": [
         1,
@@ -37772,7 +37404,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:55"
+        "time": "15:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -37800,7 +37432,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:25"
+        "time": "10:35"
       },
       "operatingDays": [
         1,
@@ -37841,12 +37473,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "11:10"
+        "time": "11:15"
       },
       "arrival": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "13:10"
+        "time": "13:15"
       },
       "operatingDays": [
         1,
@@ -37869,7 +37501,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "16:10"
+        "time": "16:20"
       },
       "operatingDays": [
         1,
@@ -37887,12 +37519,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "17:40"
+        "time": "17:35"
       },
       "arrival": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "19:40"
+        "time": "19:30"
       },
       "operatingDays": [
         1,
@@ -37910,12 +37542,12 @@
       "departure": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "20:25"
+        "time": "20:15"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "22:30"
+        "time": "22:20"
       },
       "operatingDays": [
         1,
@@ -37938,7 +37570,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:30"
+        "time": "10:35"
       },
       "operatingDays": [
         1,
@@ -37979,7 +37611,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "11:10"
+        "time": "11:15"
       },
       "arrival": {
         "airport": "小松",
@@ -38007,7 +37639,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "16:25"
+        "time": "16:30"
       },
       "operatingDays": [
         1,
@@ -38030,7 +37662,30 @@
       "arrival": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "14:05"
+        "time": "14:00"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JTA043",
+      "airline": "JTA",
+      "departure": {
+        "airport": "中部",
+        "airportCode": "NGO",
+        "time": "07:30"
+      },
+      "arrival": {
+        "airport": "那覇",
+        "airportCode": "OKA",
+        "time": "09:45"
       },
       "operatingDays": [
         1,
@@ -38071,12 +37726,12 @@
       "departure": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "08:30"
+        "time": "08:40"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:45"
+        "time": "11:00"
       },
       "operatingDays": [
         1,
@@ -38094,12 +37749,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "19:45"
+        "time": "19:55"
       },
       "arrival": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "21:55"
+        "time": "22:00"
       },
       "operatingDays": [
         1,
@@ -38117,12 +37772,35 @@
       "departure": {
         "airport": "中部",
         "airportCode": "NGO",
-        "time": "14:55"
+        "time": "14:50"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
         "time": "17:10"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "JTA048",
+      "airline": "JTA",
+      "departure": {
+        "airport": "那覇",
+        "airportCode": "OKA",
+        "time": "20:30"
+      },
+      "arrival": {
+        "airport": "中部",
+        "airportCode": "NGO",
+        "time": "22:30"
       },
       "operatingDays": [
         1,
@@ -38145,7 +37823,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "21:00"
+        "time": "21:05"
       },
       "operatingDays": [
         1,
@@ -38191,7 +37869,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "08:50"
+        "time": "08:55"
       },
       "operatingDays": [
         1,
@@ -38209,12 +37887,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:25"
+        "time": "10:20"
       },
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "12:10"
+        "time": "12:05"
       },
       "operatingDays": [
         1,
@@ -38255,7 +37933,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "13:20"
+        "time": "13:25"
       },
       "arrival": {
         "airport": "福岡",
@@ -38283,7 +37961,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:40"
+        "time": "14:45"
       },
       "operatingDays": [
         1,
@@ -38301,12 +37979,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "15:00"
+        "time": "15:05"
       },
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "16:45"
+        "time": "16:50"
       },
       "operatingDays": [
         1,
@@ -38324,12 +38002,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "18:30"
+        "time": "18:20"
       },
       "arrival": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "20:10"
+        "time": "20:00"
       },
       "operatingDays": [
         1,
@@ -38347,12 +38025,12 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "15:55"
+        "time": "15:50"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "17:35"
+        "time": "17:30"
       },
       "operatingDays": [
         1,
@@ -38393,12 +38071,12 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "17:25"
+        "time": "17:30"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "19:05"
+        "time": "19:15"
       },
       "operatingDays": [
         1,
@@ -38416,12 +38094,12 @@
       "departure": {
         "airport": "福岡",
         "airportCode": "FUK",
-        "time": "20:55"
+        "time": "20:50"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "22:30"
+        "time": "22:25"
       },
       "operatingDays": [
         1,
@@ -38439,12 +38117,12 @@
       "departure": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "09:50"
+        "time": "09:55"
       },
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "12:20"
+        "time": "12:30"
       },
       "operatingDays": [
         1,
@@ -38462,7 +38140,7 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "19:50"
+        "time": "19:55"
       },
       "arrival": {
         "airport": "関西",
@@ -38490,7 +38168,7 @@
       "arrival": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "09:55"
+        "time": "10:05"
       },
       "operatingDays": [
         1,
@@ -38508,12 +38186,12 @@
       "departure": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "19:25"
+        "time": "19:35"
       },
       "arrival": {
         "airport": "関西",
         "airportCode": "KIX",
-        "time": "21:40"
+        "time": "21:45"
       },
       "operatingDays": [
         1,
@@ -38554,7 +38232,7 @@
       "departure": {
         "airport": "久米島",
         "airportCode": "UEO",
-        "time": "15:00"
+        "time": "14:55"
       },
       "arrival": {
         "airport": "那覇",
@@ -38605,7 +38283,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "09:45"
+        "time": "09:40"
       },
       "operatingDays": [
         1,
@@ -38623,12 +38301,12 @@
       "departure": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "10:40"
+        "time": "10:45"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "11:35"
+        "time": "11:40"
       },
       "operatingDays": [
         1,
@@ -38646,7 +38324,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:40"
+        "time": "10:35"
       },
       "arrival": {
         "airport": "宮古",
@@ -38674,7 +38352,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "13:05"
+        "time": "13:00"
       },
       "operatingDays": [
         1,
@@ -38697,7 +38375,7 @@
       "arrival": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "12:45"
+        "time": "12:50"
       },
       "operatingDays": [
         1,
@@ -38715,12 +38393,12 @@
       "departure": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "13:25"
+        "time": "13:30"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:20"
+        "time": "14:25"
       },
       "operatingDays": [
         1,
@@ -38743,7 +38421,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "17:00"
+        "time": "16:55"
       },
       "operatingDays": [
         1,
@@ -38784,7 +38462,7 @@
       "departure": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "16:55"
+        "time": "17:00"
       },
       "arrival": {
         "airport": "那覇",
@@ -38812,7 +38490,7 @@
       "arrival": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "16:15"
+        "time": "16:20"
       },
       "operatingDays": [
         1,
@@ -38830,12 +38508,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "16:25"
+        "time": "16:30"
       },
       "arrival": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "17:15"
+        "time": "17:20"
       },
       "operatingDays": [
         1,
@@ -38853,7 +38531,7 @@
       "departure": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "17:55"
+        "time": "18:00"
       },
       "arrival": {
         "airport": "那覇",
@@ -38876,12 +38554,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "17:55"
+        "time": "18:00"
       },
       "arrival": {
         "airport": "宮古",
         "airportCode": "MMY",
-        "time": "18:45"
+        "time": "18:50"
       },
       "operatingDays": [
         1,
@@ -38904,7 +38582,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:00"
+        "time": "09:55"
       },
       "operatingDays": [
         1,
@@ -38950,7 +38628,7 @@
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "10:30"
+        "time": "10:35"
       },
       "operatingDays": [
         1,
@@ -38973,7 +38651,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "12:20"
+        "time": "12:15"
       },
       "operatingDays": [
         1,
@@ -38991,12 +38669,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "12:15"
+        "time": "12:20"
       },
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "13:15"
+        "time": "13:25"
       },
       "operatingDays": [
         1,
@@ -39014,12 +38692,12 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "13:00"
+        "time": "13:10"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:05"
+        "time": "14:10"
       },
       "operatingDays": [
         1,
@@ -39037,12 +38715,12 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "14:00"
+        "time": "14:05"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "15:00"
+        "time": "15:05"
       },
       "operatingDays": [
         1,
@@ -39060,12 +38738,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:45"
+        "time": "14:50"
       },
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "15:45"
+        "time": "15:50"
       },
       "operatingDays": [
         1,
@@ -39083,12 +38761,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "17:00"
+        "time": "17:10"
       },
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "18:00"
+        "time": "18:10"
       },
       "operatingDays": [
         1,
@@ -39106,12 +38784,12 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "16:25"
+        "time": "16:30"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "17:25"
+        "time": "17:30"
       },
       "operatingDays": [
         1,
@@ -39129,12 +38807,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "18:10"
+        "time": "18:15"
       },
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "19:10"
+        "time": "19:15"
       },
       "operatingDays": [
         1,
@@ -39152,12 +38830,12 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "18:40"
+        "time": "18:50"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "19:45"
+        "time": "19:50"
       },
       "operatingDays": [
         1,
@@ -39871,6 +39549,52 @@
         "airport": "五島福江",
         "airportCode": "FUJ",
         "time": "13:50"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "ORC76",
+      "airline": "ORC",
+      "departure": {
+        "airport": "五島福江",
+        "airportCode": "FUJ",
+        "time": "15:45"
+      },
+      "arrival": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "16:15"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "flightNumber": "ORC77",
+      "airline": "ORC",
+      "departure": {
+        "airport": "長崎",
+        "airportCode": "NGS",
+        "time": "14:45"
+      },
+      "arrival": {
+        "airport": "五島福江",
+        "airportCode": "FUJ",
+        "time": "15:15"
       },
       "operatingDays": [
         1,
@@ -41562,6 +41286,29 @@
       ]
     },
     {
+      "flightNumber": "SFJ95",
+      "airline": "SFJ",
+      "departure": {
+        "airport": "羽田",
+        "airportCode": "HND",
+        "time": "21:55"
+      },
+      "arrival": {
+        "airport": "北九州",
+        "airportCode": "KKJ",
+        "time": "23:35"
+      },
+      "operatingDays": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
       "flightNumber": "SFJ96",
       "airline": "SFJ",
       "departure": {
@@ -41710,7 +41457,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "10:45"
+        "time": "10:50"
       },
       "operatingDays": [
         1,
@@ -41779,7 +41526,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "09:00"
+        "time": "09:05"
       },
       "operatingDays": [
         1,
@@ -41940,7 +41687,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:35"
+        "time": "14:40"
       },
       "operatingDays": [
         1,
@@ -41958,7 +41705,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "15:30"
+        "time": "15:35"
       },
       "arrival": {
         "airport": "中部",
@@ -41986,7 +41733,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "09:55"
+        "time": "10:00"
       },
       "operatingDays": [
         1,
@@ -42004,7 +41751,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "11:15"
+        "time": "11:20"
       },
       "arrival": {
         "airport": "神戸",
@@ -42032,7 +41779,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "15:55"
+        "time": "16:00"
       },
       "operatingDays": [
         1,
@@ -42050,7 +41797,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:55"
+        "time": "15:00"
       },
       "arrival": {
         "airport": "神戸",
@@ -42101,7 +41848,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "12:30"
+        "time": "12:35"
       },
       "operatingDays": [
         1,
@@ -42142,7 +41889,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "09:45"
+        "time": "09:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -42170,7 +41917,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "14:05"
+        "time": "14:10"
       },
       "operatingDays": [
         1,
@@ -42188,7 +41935,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "13:05"
+        "time": "13:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -42216,7 +41963,7 @@
       "arrival": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "18:20"
+        "time": "18:25"
       },
       "operatingDays": [
         1,
@@ -42234,7 +41981,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "14:50"
+        "time": "14:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -42280,7 +42027,7 @@
       "departure": {
         "airport": "熊本",
         "airportCode": "KMJ",
-        "time": "18:55"
+        "time": "19:00"
       },
       "arrival": {
         "airport": "羽田",
@@ -42308,7 +42055,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "08:50"
+        "time": "08:55"
       },
       "operatingDays": [
         1,
@@ -42326,7 +42073,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "09:40"
+        "time": "09:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -42354,7 +42101,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "16:25"
+        "time": "16:30"
       },
       "operatingDays": [
         1,
@@ -42372,7 +42119,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "15:20"
+        "time": "15:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -42418,7 +42165,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "20:20"
+        "time": "20:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -42446,7 +42193,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "08:55"
+        "time": "09:00"
       },
       "operatingDays": [
         1,
@@ -42464,7 +42211,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "09:30"
+        "time": "09:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -42492,7 +42239,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "11:25"
+        "time": "11:30"
       },
       "operatingDays": [
         1,
@@ -42510,7 +42257,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "12:00"
+        "time": "12:05"
       },
       "arrival": {
         "airport": "羽田",
@@ -42538,7 +42285,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "14:40"
+        "time": "14:45"
       },
       "operatingDays": [
         1,
@@ -42556,7 +42303,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "15:30"
+        "time": "15:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -42584,7 +42331,7 @@
       "arrival": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "20:30"
+        "time": "20:35"
       },
       "operatingDays": [
         1,
@@ -42602,7 +42349,7 @@
       "departure": {
         "airport": "長崎",
         "airportCode": "NGS",
-        "time": "21:05"
+        "time": "21:10"
       },
       "arrival": {
         "airport": "羽田",
@@ -42625,12 +42372,12 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "11:30"
+        "time": "11:35"
       },
       "arrival": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "12:35"
+        "time": "12:40"
       },
       "operatingDays": [
         1,
@@ -42648,12 +42395,12 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "13:10"
+        "time": "13:15"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "14:15"
+        "time": "14:20"
       },
       "operatingDays": [
         1,
@@ -42694,12 +42441,12 @@
       "departure": {
         "airport": "石垣",
         "airportCode": "ISG",
-        "time": "18:45"
+        "time": "18:50"
       },
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "19:45"
+        "time": "19:50"
       },
       "operatingDays": [
         1,
@@ -42722,7 +42469,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "08:25"
+        "time": "08:30"
       },
       "operatingDays": [
         1,
@@ -42768,7 +42515,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "11:45"
+        "time": "11:55"
       },
       "operatingDays": [
         1,
@@ -42786,7 +42533,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "11:20"
+        "time": "11:25"
       },
       "arrival": {
         "airport": "羽田",
@@ -42814,7 +42561,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "13:35"
+        "time": "13:40"
       },
       "operatingDays": [
         1,
@@ -42832,7 +42579,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "12:30"
+        "time": "12:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -42860,7 +42607,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "16:10"
+        "time": "16:15"
       },
       "operatingDays": [
         1,
@@ -42878,7 +42625,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "14:10"
+        "time": "14:15"
       },
       "arrival": {
         "airport": "羽田",
@@ -42906,7 +42653,7 @@
       "arrival": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "17:00"
+        "time": "17:10"
       },
       "operatingDays": [
         1,
@@ -42924,7 +42671,7 @@
       "departure": {
         "airport": "宮崎",
         "airportCode": "KMI",
-        "time": "16:45"
+        "time": "16:50"
       },
       "arrival": {
         "airport": "羽田",
@@ -42998,7 +42745,7 @@
       "arrival": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "10:35"
+        "time": "10:40"
       },
       "operatingDays": [
         1,
@@ -43016,7 +42763,7 @@
       "departure": {
         "airport": "那覇",
         "airportCode": "OKA",
-        "time": "16:30"
+        "time": "16:35"
       },
       "arrival": {
         "airport": "宮崎",
@@ -43113,7 +42860,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "14:50"
+        "time": "14:55"
       },
       "operatingDays": [
         1,
@@ -43136,7 +42883,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "16:50"
+        "time": "17:00"
       },
       "operatingDays": [
         1,
@@ -43154,7 +42901,7 @@
       "departure": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "15:30"
+        "time": "15:35"
       },
       "arrival": {
         "airport": "羽田",
@@ -43182,7 +42929,7 @@
       "arrival": {
         "airport": "鹿児島",
         "airportCode": "KOJ",
-        "time": "20:00"
+        "time": "20:05"
       },
       "operatingDays": [
         1,
@@ -43320,7 +43067,7 @@
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "07:55"
+        "time": "08:00"
       },
       "operatingDays": [
         1,
@@ -43338,7 +43085,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "08:25"
+        "time": "08:30"
       },
       "arrival": {
         "airport": "羽田",
@@ -43366,7 +43113,7 @@
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "11:35"
+        "time": "11:40"
       },
       "operatingDays": [
         1,
@@ -43384,7 +43131,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "12:15"
+        "time": "12:20"
       },
       "arrival": {
         "airport": "羽田",
@@ -43412,7 +43159,7 @@
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "16:15"
+        "time": "16:20"
       },
       "operatingDays": [
         1,
@@ -43430,7 +43177,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "16:50"
+        "time": "16:55"
       },
       "arrival": {
         "airport": "羽田",
@@ -43458,7 +43205,7 @@
       "arrival": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "18:50"
+        "time": "18:55"
       },
       "operatingDays": [
         1,
@@ -43476,7 +43223,7 @@
       "departure": {
         "airport": "大分",
         "airportCode": "OIT",
-        "time": "19:45"
+        "time": "19:50"
       },
       "arrival": {
         "airport": "羽田",
